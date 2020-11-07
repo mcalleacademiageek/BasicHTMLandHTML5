@@ -1,0 +1,21 @@
+Basic HTML and HTML5: Create a Form Element
+
+You can build web forms that actually submit data to a server using nothing more than pure HTML. You can do this by specifying an action on your form element.
+
+For example:
+
+<form action="/url-where-you-want-to-submit-form-data"></form>
+
+Nest the existing input element inside a form element and assign "https://freecatphotoapp.com/submit-cat-photo" to the action attribute of the form element.
+
+
+
+HTML y HTML5 básicos: crear un elemento de formulario
+
+Puede crear formularios web que envíen datos a un servidor utilizando únicamente HTML puro. Puede hacer esto especificando una acción en su elemento de formulario.
+
+Por ejemplo:
+
+<form action = "/ url-where-you-want-to-submit-form-data"> </form>
+
+Anida el elemento de entrada existente dentro de un elemento de formulario y asigne "https://freecatphotoapp.com/submit-cat-photo" al atributo de acción del elemento de formulario.

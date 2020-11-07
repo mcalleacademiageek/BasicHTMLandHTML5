@@ -1,0 +1,29 @@
+Basic HTML and HTML5: Add Placeholder Text to a Text Field
+
+Placeholder text is what is displayed in your input element before your user has inputted anything.
+
+You can create placeholder text like so:
+
+<input type="text" placeholder="this is placeholder text">
+
+Note: Remember that input elements are self-closing.
+
+Set the placeholder value of your text input to "cat photo URL".
+
+
+
+HTML básico y HTML5: agregue texto de marcador de posición a un campo de texto
+
+El texto del marcador de posición es lo que se muestra en su elemento de entrada antes de que su usuario haya ingresado algo.
+
+Puede crear texto de marcador de posición así:
+
+<input type = "text" placeholder = "este es un texto de marcador de posición">
+
+Nota: Recuerde que los elementos de entrada se cierran automáticamente.
+
+Establezca el valor de marcador de posición de su entrada de texto en "URL de foto de gato".
+Más sobre el texto fuente
+Se requiere el texto fuente para obtener información adicional sobre la traducción
+Enviar comentarios
+Paneles laterales
