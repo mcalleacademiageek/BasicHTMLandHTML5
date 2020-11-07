@@ -1,0 +1,35 @@
+Basic HTML and HTML5: Create a Bulleted Unordered List
+
+HTML has a special element for creating unordered lists, or bullet point style lists.
+
+Unordered lists start with an opening <ul> element, followed by any number of <li> elements. Finally, unordered lists close with a </ul>
+
+For example:
+
+<ul>
+  <li>milk</li>
+  <li>cheese</li>
+</ul>
+
+would create a bullet point style list of "milk" and "cheese".
+
+Remove the last two p elements and create an unordered list of three things that cats love at the bottom of the page.
+
+
+
+HTML básico y HTML5: cree una lista desordenada con viñetas
+
+HTML tiene un elemento especial para crear listas desordenadas o listas de estilo con viñetas.
+
+Las listas desordenadas comienzan con un elemento <ul> de apertura, seguido de cualquier número de elementos <li>. Finalmente, las listas desordenadas se cierran con un </ul>
+
+Por ejemplo:
+
+<ul>
+   <li> leche </li>
+   <li> queso </li>
+</ul>
+
+crearía una lista de estilo de viñetas de "leche" y "queso".
+
+Elimina los dos últimos elementos p y crea una lista desordenada de tres cosas que les encantan a los gatos en la parte inferior de la página.

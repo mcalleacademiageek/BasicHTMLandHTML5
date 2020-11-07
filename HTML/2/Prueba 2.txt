@@ -1,0 +1,7 @@
+En las próximas lecciones, crearemos una aplicación web de fotos de gatos HTML5 pieza por pieza.
+
+El elemento h2 que agregará en este paso agregará un encabezado de nivel dos a la página web.
+
+Este elemento le dice al navegador sobre la estructura de su sitio web. Los elementos h1 se utilizan a menudo para los títulos principales, mientras que los elementos h2 se utilizan generalmente para los subtítulos. También hay elementos h3, h4, h5 y h6 para indicar diferentes niveles de subtítulos.
+
+Agrega una etiqueta h2 que diga "CatPhotoApp" para crear un segundo elemento HTML debajo de tu elemento h1 "Hello World".

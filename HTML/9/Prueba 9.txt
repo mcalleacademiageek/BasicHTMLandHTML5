@@ -1,0 +1,29 @@
+HTML y HTML5 básicos: Agregar imágenes a su sitio web
+
+Puede agregar imágenes a su sitio web usando el elemento img y apuntar a la URL de una imagen específica usando el atributo src.
+
+Un ejemplo de esto sería:
+
+<img src = "https://www.freecatphotoapp.com/your-image.jpg">
+
+Tenga en cuenta que los elementos img se cierran automáticamente.
+
+Todos los elementos de img deben tener un atributo alt. El texto dentro de un atributo alt se utiliza para que los lectores de pantalla mejoren la accesibilidad y se muestra si la imagen no se carga.
+
+Nota: si la imagen es puramente decorativa, se recomienda utilizar un atributo alt vacío.
+
+Idealmente, el atributo alt no debería contener caracteres especiales a menos que sea necesario.
+
+Agreguemos un atributo alt a nuestro ejemplo de img anterior:
+
+<img src = "https://www.freecatphotoapp.com/your-image.jpg" alt = "Un gato de negocios con corbata.">
+
+Intentemos agregar una imagen a nuestro sitio web:
+
+Dentro del elemento principal existente, inserte un elemento img antes de los elementos p existentes.
+
+Ahora configure el atributo src para que apunte a esta URL:
+
+https://bit.ly/fcc-relaxing-cat
+
+Finalmente, no olvide darle a su elemento img un atributo alt con texto aplicable.

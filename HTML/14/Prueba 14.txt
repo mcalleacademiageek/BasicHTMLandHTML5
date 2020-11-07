@@ -1,0 +1,29 @@
+Basic HTML and HTML5: Turn an Image into a Link
+
+You can make elements into links by nesting them within an a element.
+
+Nest your image within an a element. Here's an example:
+
+<a href="#"><img src="https://bit.ly/fcc-running-cats" alt="Three kittens running towards the camera."></a>
+
+Remember to use # as your a element's href property in order to turn it into a dead link.
+
+Place the existing image element within an a (anchor) element.
+
+Once you've done this, hover over your image with your cursor. Your cursor's normal pointer should become the link clicking pointer. The photo is now a link.
+
+
+
+HTML y HTML5 básicos: convierta una imagen en un enlace
+
+Puede convertir elementos en enlaces anidando dentro de un elemento.
+
+Anida su imagen dentro de un elemento a. He aquí un ejemplo:
+
+<a href="#"> <img src = "https://bit.ly/fcc-running-cats" alt = "Tres gatitos corriendo hacia la cámara"> </a>
+
+Recuerde usar # como la propiedad href de un elemento para convertirlo en un enlace muerto.
+
+Coloque el elemento de imagen existente dentro de un elemento a (ancla).
+
+Una vez que hayas hecho esto, coloca el cursor sobre tu imagen. El puntero normal de su cursor debería convertirse en el puntero de clic en el enlace. La foto ahora es un enlace.

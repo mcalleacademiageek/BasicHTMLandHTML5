@@ -1,0 +1,7 @@
+Los desarrolladores web utilizan tradicionalmente el texto lorem ipsum como texto de marcador de posición. El texto de lorem ipsum se extrajo al azar de un pasaje famoso de Cicerón de la antigua Roma.
+
+El texto de Lorem ipsum ha sido utilizado como texto de marcador de posición por los tipógrafos desde el siglo XVI, y esta tradición continúa en la web.
+
+Bueno, 5 siglos es suficiente. Ya que estamos construyendo una CatPhotoApp, usemos algo llamado "texto de kitty ipsum".
+
+Reemplaza el texto dentro de tu elemento p con las primeras palabras de este texto de kitty ipsum: Kitty ipsum dolor sit amet, derramado por todas partes derramado por todas partes estiramiento ataca tus tobillos persigue el punto rojo, bola de pelo corre catnip come la hierba huele.

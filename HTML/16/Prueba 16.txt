@@ -1,0 +1,35 @@
+Basic HTML and HTML5: Create an Ordered List
+
+HTML has another special element for creating ordered lists, or numbered lists.
+
+Ordered lists start with an opening <ol> element, followed by any number of <li> elements. Finally, ordered lists are closed with the </ol> tag.
+
+For example:
+
+<ol>
+  <li>Garfield</li>
+  <li>Sylvester</li>
+</ol>
+
+would create a numbered list of "Garfield" and "Sylvester".
+
+Create an ordered list of the top 3 things cats hate the most.
+
+
+
+HTML y HTML5 básicos: crear una lista ordenada
+
+HTML tiene otro elemento especial para crear listas ordenadas o listas numeradas.
+
+Las listas ordenadas comienzan con un elemento <ol> de apertura, seguido de cualquier número de elementos <li>. Finalmente, las listas ordenadas se cierran con la etiqueta </ol>.
+
+Por ejemplo:
+
+<ol>
+   <li> Garfield </li>
+   <li> Sylvester </li>
+</ol>
+
+crearía una lista numerada de "Garfield" y "Sylvester".
+
+Crea una lista ordenada de las 3 cosas principales que más odian los gatos.

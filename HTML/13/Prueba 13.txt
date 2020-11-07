@@ -1,0 +1,21 @@
+Basic HTML and HTML5: Make Dead Links Using the Hash Symbol
+
+Sometimes you want to add a elements to your website before you know where they will link.
+
+This is also handy when you're changing the behavior of a link using JavaScript, which we'll learn about later.
+
+The current value of the href attribute is a link that points to "https://freecatphotoapp.com". Replace the href attribute value with a #, also known as a hash symbol, to create a dead link.
+
+For example: href="#"
+
+
+
+HTML básico y HTML5: cree enlaces muertos usando el símbolo hash
+
+A veces, desea agregar elementos a su sitio web antes de saber dónde se vincularán.
+
+Esto también es útil cuando está cambiando el comportamiento de un enlace usando JavaScript, de lo que aprenderemos más adelante.
+
+El valor actual del atributo href es un enlace que apunta a "https://freecatphotoapp.com". Reemplace el valor del atributo href con un #, también conocido como símbolo de almohadilla, para crear un enlace muerto.
+
+Por ejemplo: href = "#"

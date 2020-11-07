@@ -1,0 +1,7 @@
+HTML básico y HTML5: eliminar elementos HTML
+
+Nuestro teléfono no tiene mucho espacio vertical.
+
+Eliminemos los elementos innecesarios para que podamos comenzar a construir nuestra CatPhotoApp.
+
+Elimina tu elemento h1 para que podamos simplificar nuestra vista.

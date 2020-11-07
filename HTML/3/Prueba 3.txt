@@ -1,0 +1,11 @@
+HTML y HTML5 básicos: informe con el elemento de párrafo
+
+Los elementos p son el elemento preferido para el texto de párrafo en sitios web. p es la abreviatura de "párrafo".
+
+Puede crear un elemento de párrafo como este:
+
+<p> ¡Soy una etiqueta p! </p>
+
+Crea un elemento p debajo de tu elemento h2 y dale el texto "Hola párrafo".
+
+Nota: como convención, todas las etiquetas HTML están escritas en minúsculas, por ejemplo <p> </p> y no <P> </P>.

@@ -1,0 +1,19 @@
+HTML y HTML5 básicos: Introducción a los elementos HTML5
+
+HTML5 introduce etiquetas HTML más descriptivas. Estos incluyen principal, encabezado, pie de página, navegación, video, artículo, sección y otros.
+
+Estas etiquetas dan una estructura descriptiva a su HTML, hacen que su HTML sea más fácil de leer y ayudan con la optimización de motores de búsqueda (SEO) y la accesibilidad. La etiqueta HTML5 principal ayuda a los motores de búsqueda y a otros desarrolladores a encontrar el contenido principal de su página.
+
+Ejemplo de uso, un elemento principal con dos elementos secundarios anidados en su interior:
+
+<main>
+<h1> Hola mundo </h1>
+<p> Hola, párrafo </p>
+</main>
+
+Nota: Muchas de las nuevas etiquetas HTML5 y sus beneficios se tratan en la sección Accesibilidad aplicada.
+
+Crea un segundo elemento p después del elemento p existente con el siguiente texto de ipsum de gatito: Ronroneo saltar comer la hierba rasgar el sofá rayado tomar el sol, cobertizo por todas partes rasgar el sofá dormir en el fregadero piel esponjosa hierba gatera rayado.
+
+Luego, cree un elemento principal y anide los dos elementos p dentro del elemento principal.
+
