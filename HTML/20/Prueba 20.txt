@@ -1,0 +1,21 @@
+Basic HTML and HTML5: Add a Submit Button to a Form
+
+Let's add a submit button to your form. Clicking this button will send the data from your form to the URL you specified with your form's action attribute.
+
+Here's an example submit button:
+
+<button type="submit">this button submits the form</button>
+
+Add a button as the last element of your form element with a type of submit, and "Submit" as its text.
+
+
+
+HTML y HTML5 básicos: agregar un botón Enviar a un formulario
+
+Agreguemos un botón de envío a su formulario. Al hacer clic en este botón, se enviarán los datos de su formulario a la URL que especificó con el atributo de acción de su formulario.
+
+Aquí hay un ejemplo de botón de envío:
+
+<button type = "enviar"> este botón envía el formulario </button>
+
+Agregue un botón como último elemento de su elemento de formulario con un tipo de envío y "Enviar" como texto.

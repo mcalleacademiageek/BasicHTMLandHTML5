@@ -1,0 +1,20 @@
+Basic HTML and HTML5: Use HTML5 to Require a Field
+
+You can require specific form fields so that your user will not be able to submit your form until he or she has filled them out.
+
+For example, if you wanted to make a text input field required, you can just add the attribute required within your input element, like this: <input type="text" required>
+
+Make your text input a required field, so that your user can't submit the form without completing this field.
+
+Then try to submit the form without inputting any text. See how your HTML5 form notifies you that the field is required?
+
+
+HTML y HTML5 básicos: use HTML5 para requerir un campo
+
+Puede solicitar campos de formulario específicos para que su usuario no pueda enviar su formulario hasta que los haya completado.
+
+Por ejemplo, si desea que un campo de entrada de texto sea obligatorio, simplemente puede agregar el atributo requerido dentro de su elemento de entrada, así: <input type = "text" required>
+
+Haga que la entrada de texto sea un campo obligatorio, de modo que su usuario no pueda enviar el formulario sin completar este campo.
+
+Luego intente enviar el formulario sin ingresar ningún texto. ¿Ves cómo tu formulario HTML5 te notifica que el campo es obligatorio?
