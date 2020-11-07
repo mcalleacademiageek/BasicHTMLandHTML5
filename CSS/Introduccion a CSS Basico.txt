@@ -1,0 +1,50 @@
+Introduction to Basic CSS
+
+Cascading Style Sheets (CSS) tell the browser how to display the text and other content that you write in HTML.
+
+Note that CSS is case-sensitive so be careful with your capitalization.
+
+CSS has been adopted by all major browsers and allows you to control:
+
+    color
+    fonts
+    positioning
+    spacing
+    sizing
+    decorations
+    transitions
+
+There are three main ways to apply CSS styling. You can apply inline styles directly to HTML elements with the style attribute. Alternatively, you can place CSS rules within style tags in an HTML document. Finally, you can write CSS rules in an external style sheet, then reference that file in the HTML document. Even though the first two options have their use cases, most developers prefer external style sheets because they keep the styles separate from the HTML elements. This improves the readability and reusability of your code.
+
+The idea behind CSS is that you can use a selector to target an HTML element in the DOM (Document Object Model) and then apply a variety of attributes to that element to change the way it is displayed on the page.
+
+In this section, you'll see how adding CSS styles to the elements of your CatPhotoApp can change it from simple text to something more.
+
+Note: Some browser extensions may interfere with elements on the page. If the tests fail, try disabling your extensions for the most reliable experience.
+
+
+
+
+Introducción a CSS básico
+
+Las hojas de estilo en cascada (CSS) le indican al navegador cómo mostrar el texto y otro contenido que escribe en HTML.
+
+Tenga en cuenta que CSS distingue entre mayúsculas y minúsculas, así que tenga cuidado con las mayúsculas.
+
+CSS ha sido adoptado por todos los principales navegadores y le permite controlar:
+
+    color
+    fuentes
+    posicionamiento
+    espaciado
+    dimensionamiento
+    decoraciones
+    transiciones
+
+Hay tres formas principales de aplicar el estilo CSS. Puede aplicar estilos en línea directamente a elementos HTML con el atributo de estilo. Alternativamente, puede colocar reglas CSS dentro de etiquetas de estilo en un documento HTML. Finalmente, puede escribir reglas CSS en una hoja de estilo externa y luego hacer referencia a ese archivo en el documento HTML. Aunque las dos primeras opciones tienen sus casos de uso, la mayoría de los desarrolladores prefieren hojas de estilo externas porque mantienen los estilos separados de los elementos HTML. Esto mejora la legibilidad y reutilización de su código.
+
+La idea detrás de CSS es que puede usar un selector para apuntar a un elemento HTML en el DOM (Modelo de objeto de documento) y luego aplicar una variedad de atributos a ese elemento para cambiar la forma en que se muestra en la página.
+
+En esta sección, verá cómo agregar estilos CSS a los elementos de su CatPhotoApp puede cambiarlo de texto simple a algo más.
+
+Nota: algunas extensiones del navegador pueden interferir con elementos de la página. Si las pruebas fallan, intente deshabilitar sus extensiones para obtener la experiencia más confiable.
