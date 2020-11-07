@@ -1,0 +1,21 @@
+Basic HTML and HTML5: Check Radio Buttons and Checkboxes by Default
+
+You can set a checkbox or radio button to be checked by default using the checked attribute.
+
+To do this, just add the word "checked" to the inside of an input element. For example:
+
+<input type="radio" name="test-name" checked>
+
+Set the first of your radio buttons and the first of your checkboxes to both be checked by default.
+
+
+
+HTML y HTML5 básicos: marque los botones de opción y las casillas de verificación de forma predeterminada
+
+Puede establecer una casilla de verificación o un botón de opción para que se marque de forma predeterminada utilizando el atributo marcado.
+
+Para hacer esto, simplemente agregue la palabra "comprobado" al interior de un elemento de entrada. Por ejemplo:
+
+<input type = "radio" name = "test-name" marcado>
+
+Configure el primero de sus botones de opción y la primera de sus casillas de verificación para que ambos estén marcados de forma predeterminada.

@@ -1,0 +1,26 @@
+Basic HTML and HTML5: Nest Many Elements within a Single div Element
+
+The div element, also known as a division element, is a general purpose container for other elements.
+
+The div element is probably the most commonly used HTML element of all.
+
+Just like any other non-self-closing element, you can open a div element with <div> and close it on another line with </div>.
+
+Nest your "Things cats love" and "Things cats hate" lists all within a single div element.
+
+Hint: Try putting your opening div tag above your "Things cats love" p element and your closing div tag after your closing ol tag so that both of your lists are within one div.
+HTML básico y HTML5: anida muchos elementos dentro de un solo elemento div
+
+El elemento div, también conocido como elemento de división, es un contenedor de uso general para otros elementos.
+
+El elemento div es probablemente el elemento HTML más utilizado de todos.
+
+Al igual que cualquier otro elemento que no se cierre automáticamente, puede abrir un elemento div con <div> y cerrarlo en otra línea con </div>.
+
+Anida las listas "Cosas que los gatos aman" y "Cosas que los gatos odian" en un solo elemento div.
+
+Sugerencia: intente poner su etiqueta div de apertura encima de su elemento p "Cosas que a los gatos les encanta" y su etiqueta div de cierre después de su etiqueta ol de cierre para que ambas listas estén dentro de un div.
+
+
+
+

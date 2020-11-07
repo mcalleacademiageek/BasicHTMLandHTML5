@@ -1,0 +1,46 @@
+Basic HTML and HTML5: Declare the Doctype of an HTML Document
+
+The challenges so far have covered specific HTML elements and their uses. However, there are a few elements that give overall structure to your page, and should be included in every HTML document.
+
+At the top of your document, you need to tell the browser which version of HTML your page is using. HTML is an evolving language, and is updated regularly. Most major browsers support the latest specification, which is HTML5. However, older web pages may use previous versions of the language.
+
+You tell the browser this information by adding the <!DOCTYPE ...> tag on the first line, where the ... part is the version of HTML. For HTML5, you use <!DOCTYPE html>.
+
+The ! and uppercase DOCTYPE is important, especially for older browsers. The html is not case sensitive.
+
+Next, the rest of your HTML code needs to be wrapped in html tags. The opening <html> goes directly below the <!DOCTYPE html> line, and the closing </html> goes at the end of the page.
+
+Here's an example of the page structure:
+
+<!DOCTYPE html>
+<html>
+  <!-- Your HTML code goes here -->
+</html>
+
+Add a DOCTYPE tag for HTML5 to the top of the blank HTML document in the code editor. Under it, add opening and closing html tags, which wrap around an h1 element. The heading can include any text.
+
+
+
+HTML básico y HTML5: declare el tipo de documento de un documento HTML
+
+Los desafíos hasta ahora han cubierto elementos HTML específicos y sus usos. Sin embargo, hay algunos elementos que dan una estructura general a su página y deben incluirse en cada documento HTML.
+
+En la parte superior de su documento, debe indicarle al navegador qué versión de HTML está usando su página. HTML es un lenguaje en evolución y se actualiza periódicamente. La mayoría de los principales navegadores admiten la última especificación, que es HTML5. Sin embargo, las páginas web más antiguas pueden utilizar versiones anteriores del idioma.
+
+Dile al navegador esta información agregando la etiqueta <! DOCTYPE ...> en la primera línea, donde la parte ... es la versión de HTML. Para HTML5, usa <! DOCTYPE html>.
+
+Los ! y DOCTYPE en mayúsculas es importante, especialmente para navegadores más antiguos. El html no distingue entre mayúsculas y minúsculas.
+
+A continuación, el resto de su código HTML debe estar envuelto en etiquetas html. El <html> de apertura va directamente debajo de la línea <! DOCTYPE html> y el </html> de cierre va al final de la página.
+
+A continuación, se muestra un ejemplo de la estructura de la página:
+
+<! DOCTYPE html>
+<html>
+  <! - Su código HTML va aquí ->
+</html>
+
+Agregue una etiqueta DOCTYPE para HTML5 en la parte superior del documento HTML en blanco en el editor de código. Debajo, agregue las etiquetas html de apertura y cierre, que envuelven un elemento h1. El encabezado puede incluir cualquier texto.
+
+
+

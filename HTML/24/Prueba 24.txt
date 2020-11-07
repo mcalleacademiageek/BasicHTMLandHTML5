@@ -1,0 +1,39 @@
+Basic HTML and HTML5: Use the value attribute with Radio Buttons and Checkboxes
+
+When a form gets submitted, the data is sent to the server and includes entries for the options selected. Inputs of type radio and checkbox report their values from the value attribute.
+
+For example:
+
+<label for="indoor">
+  <input id="indoor" value="indoor" type="radio" name="indoor-outdoor">Indoor
+</label>
+<label for="outdoor">
+  <input id="outdoor" value="outdoor" type="radio" name="indoor-outdoor">Outdoor
+</label>
+
+Here, you have two radio inputs. When the user submits the form with the indoor option selected, the form data will include the line: indoor-outdoor=indoor. This is from the name and value attributes of the "indoor" input.
+
+If you omit the value attribute, the submitted form data uses the default value, which is on. In this scenario, if the user clicked the "indoor" option and submitted the form, the resulting form data would be indoor-outdoor=on, which is not useful. So the value attribute needs to be set to something to identify the option.
+
+Give each of the radio and checkbox inputs the value attribute. Use the input label text, in lowercase, as the value for the attribute.
+
+
+
+HTML y HTML5 básicos: use el atributo de valor con botones de opción y casillas de verificación
+
+Cuando se envía un formulario, los datos se envían al servidor e incluyen entradas para las opciones seleccionadas. Las entradas de tipo radio y casilla de verificación informan sus valores a partir del atributo de valor.
+
+Por ejemplo:
+
+<etiqueta para = "indoor">
+  <input id = "indoor" value = "indoor" type = "radio" name = "indoor-outdoor"> Interior
+</label>
+<etiqueta para = "outdoor">
+  <input id = "outdoor" value = "outdoor" type = "radio" name = "indoor-outdoor"> Exterior
+</label>
+
+Aquí tienes dos entradas de radio. Cuando el usuario envía el formulario con la opción interior seleccionada, los datos del formulario incluirán la línea: interior-exterior = interior. Esto es de los atributos de nombre y valor de la entrada "interior".
+
+Si omite el atributo de valor, los datos del formulario enviado utilizan el valor predeterminado, que está activado. En este escenario, si el usuario hace clic en la opción "interior" y envía el formulario, los datos del formulario resultante serían interior-exterior = activado, lo cual no es útil. Por lo tanto, el atributo de valor debe establecerse en algo para identificar la opción.
+
+Asigne a cada una de las entradas de radio y casilla de verificación el atributo de valor. Utilice el texto de la etiqueta de entrada, en minúsculas, como valor para el atributo.
