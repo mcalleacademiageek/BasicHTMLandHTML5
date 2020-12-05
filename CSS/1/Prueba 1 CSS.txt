@@ -1,0 +1,32 @@
+Basic CSS: Change the Color of Text
+
+Now let's change the color of some of our text.
+
+We can do this by changing the style of your h2 element.
+
+The property that is responsible for the color of an element's text is the color style property.
+
+Here's how you would set your h2 element's text color to blue:
+
+<h2 style="color: blue;">CatPhotoApp</h2>
+
+Note that it is a good practice to end inline style declarations with a ; .
+
+Change your h2 element's style so that its text color is red.
+
+
+CSS básico: cambiar el color del texto
+
+Ahora cambiemos el color de parte de nuestro texto.
+
+Podemos hacer esto cambiando el estilo de su elemento h2.
+
+La propiedad responsable del color del texto de un elemento es la propiedad de estilo de color.
+
+Así es como establecería el color del texto de su elemento h2 en azul:
+
+<h2 style = "color: blue;"> CatPhotoApp </h2>
+
+Tenga en cuenta que es una buena práctica terminar las declaraciones de estilo en línea con a; .
+
+Cambie el estilo de su elemento h2 para que su color de texto sea rojo.

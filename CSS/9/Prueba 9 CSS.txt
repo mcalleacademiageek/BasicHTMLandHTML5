@@ -1,0 +1,28 @@
+Basic CSS: Size Your Images
+
+CSS has a property called width that controls an element's width. Just like with fonts, we'll use px (pixels) to specify the image's width.
+
+For example, if we wanted to create a CSS class called larger-image that gave HTML elements a width of 500 pixels, we'd use:
+
+<style>
+  .larger-image {
+    width: 500px;
+  }
+</style>
+
+Create a class called smaller-image and use it to resize the image so that it's only 100 pixels wide.
+
+
+CSS básico: dimensione sus imágenes
+
+CSS tiene una propiedad llamada ancho que controla el ancho de un elemento. Al igual que con las fuentes, usaremos px (píxeles) para especificar el ancho de la imagen.
+
+Por ejemplo, si quisiéramos crear una clase CSS llamada larger-image que diera a los elementos HTML un ancho de 500 píxeles, usaríamos:
+
+<style>
+  .larger-image {
+    width: 500px;
+  }
+</style>
+
+Cree una clase llamada smaller-image y úsela para cambiar el tamaño de la imagen de modo que tenga solo 100 píxeles de ancho.

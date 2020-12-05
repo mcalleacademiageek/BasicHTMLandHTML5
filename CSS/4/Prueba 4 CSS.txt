@@ -1,0 +1,7 @@
+Basic CSS: Style Multiple Elements with a CSS Class
+
+Classes allow you to use the same CSS styles on multiple HTML elements. You can see this by applying your red-text class to the first p element.
+
+CSS básico: estilo de varios elementos con una clase CSS
+
+Las clases le permiten utilizar los mismos estilos CSS en varios elementos HTML. Puede ver esto aplicando su clase de texto rojo al primer elemento p.

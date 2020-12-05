@@ -1,0 +1,65 @@
+Basic CSS: Use a CSS Class to Style an Element
+
+Classes are reusable styles that can be added to HTML elements.
+
+Here's an example CSS class declaration:
+
+<style>
+  .blue-text {
+    color: blue;
+  }
+</style>
+
+You can see that we've created a CSS class called blue-text within the <style> tag. You can apply a class to an HTML element like this: <h2 class="blue-text">CatPhotoApp</h2> Note that in your CSS style element, class names start with a period. In your HTML elements' class attribute, the class name does not include the period.
+
+Inside your style element, change the h2 selector to .red-text and update the color's value from blue to red.
+
+Give your h2 element the class attribute with a value of 'red-text'.
+
+
+
+Texto de origen
+Basic CSS: Use CSS Selectors to Style Elements
+
+With CSS, there are hundreds of CSS properties that you can use to change the way an element looks on your page.
+
+When you entered <h2 style="color: red;">CatPhotoApp</h2>, you were styling that individual h2 element with inline CSS, which stands for Cascading Style Sheets.
+
+That's one way to specify the style of an element, but there's a better way to apply CSS.
+
+At the top of your code, create a style block like this:
+
+<style>
+</style>
+
+Inside that style block, you can create a CSS selector for all h2 elements. For example, if you wanted all h2 elements to be red, you would add a style rule that looks like this:
+
+<style>
+  h2 {
+    color: red;
+  }
+</style>
+
+Note that it's important to have both opening and closing curly braces ({ and }) around each element's style rule(s). You also need to make sure that your element's style definition is between the opening and closing style tags. Finally, be sure to add a semicolon to the end of each of your element's style rules.
+
+Delete your h2 element's style attribute, and instead create a CSS style block. Add the necessary CSS to turn all h2 elements blue.
+
+
+
+CSS básico: use una clase CSS para diseñar un elemento
+
+Las clases son estilos reutilizables que se pueden agregar a elementos HTML.
+
+Aquí hay un ejemplo de declaración de clase CSS:
+
+<style>
+  h2 {
+    color: red;
+  }
+</style>
+
+Puede ver que hemos creado una clase CSS llamada texto azul dentro de la etiqueta <style>. Puede aplicar una clase a un elemento HTML como este: <h2 class = "blue-text"> CatPhotoApp </h2> Tenga en cuenta que en su elemento de estilo CSS, los nombres de las clases comienzan con un punto. En el atributo de clase de sus elementos HTML, el nombre de la clase no incluye el punto.
+
+Dentro de su elemento de estilo, cambie el selector h2 a .red-text y actualice el valor del color de azul a rojo.
+
+Dale a tu elemento h2 el atributo de clase con un valor de 'texto rojo'.

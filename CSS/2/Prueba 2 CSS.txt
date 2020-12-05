@@ -1,0 +1,51 @@
+Basic CSS: Use CSS Selectors to Style Elements
+
+With CSS, there are hundreds of CSS properties that you can use to change the way an element looks on your page.
+
+When you entered <h2 style="color: red;">CatPhotoApp</h2>, you were styling that individual h2 element with inline CSS, which stands for Cascading Style Sheets.
+
+That's one way to specify the style of an element, but there's a better way to apply CSS.
+
+At the top of your code, create a style block like this:
+
+<style>
+</style>
+
+Inside that style block, you can create a CSS selector for all h2 elements. For example, if you wanted all h2 elements to be red, you would add a style rule that looks like this:
+
+<style>
+  h2 {
+    color: red;
+  }
+</style>
+
+Note that it's important to have both opening and closing curly braces ({ and }) around each element's style rule(s). You also need to make sure that your element's style definition is between the opening and closing style tags. Finally, be sure to add a semicolon to the end of each of your element's style rules.
+
+Delete your h2 element's style attribute, and instead create a CSS style block. Add the necessary CSS to turn all h2 elements blue.
+
+
+
+CSS básico: use selectores de CSS para diseñar elementos
+
+Con CSS, hay cientos de propiedades de CSS que puede usar para cambiar la apariencia de un elemento en su página.
+
+Cuando ingresó <h2 style = "color: red;"> CatPhotoApp </h2>, estaba diseñando ese elemento h2 individual con CSS en línea, que significa Hojas de estilo en cascada.
+
+Esa es una forma de especificar el estilo de un elemento, pero hay una mejor manera de aplicar CSS.
+
+En la parte superior de su código, cree un bloque de estilo como este:
+
+<style>
+</style>
+
+Dentro de ese bloque de estilo, puede crear un selector de CSS para todos los elementos h2. Por ejemplo, si quisiera que todos los elementos h2 fueran rojos, agregaría una regla de estilo que se ve así:
+
+<style>
+  h2 {
+    color: red;
+  }
+</style>
+
+Tenga en cuenta que es importante tener llaves de apertura y cierre ({y}) alrededor de las reglas de estilo de cada elemento. También debe asegurarse de que la definición de estilo de su elemento esté entre las etiquetas de style de apertura y cierre. Finalmente, asegúrese de agregar un punto y coma al final de cada una de las reglas de estilo de su elemento.
+
+Elimina el atributo de estilo de tu elemento h2 y, en su lugar, crea un bloque de estilo CSS. Agregue el CSS necesario para convertir todos los elementos h2 en azules.
