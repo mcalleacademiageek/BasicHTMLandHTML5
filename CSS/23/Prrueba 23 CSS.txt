@@ -1,0 +1,30 @@
+Basic CSS: Use Attribute Selectors to Style Elements
+
+You have been adding id or class attributes to elements that you wish to specifically style. These are known as ID and class selectors. There are other CSS Selectors you can use to select custom groups of elements to style.
+
+Let's bring out CatPhotoApp again to practice using CSS Selectors.
+
+For this challenge, you will use the [attr=value] attribute selector to style the checkboxes in CatPhotoApp. This selector matches and styles elements with a specific attribute value. For example, the below code changes the margins of all elements with the attribute type and a corresponding value of radio:
+
+[type='radio'] {
+  margin: 20px 0px 20px 0px;
+}
+
+Using the type attribute selector, try to give the checkboxes in CatPhotoApp a top margin of 10px and a bottom margin of 15px.
+
+
+
+
+CSS básico: use selectores de atributos para diseñar elementos
+
+Ha estado agregando atributos id o class a elementos que desea diseñar específicamente. Estos se conocen como selectores de ID y clase. Hay otros selectores de CSS que puede utilizar para seleccionar grupos personalizados de elementos para diseñar.
+
+Saquemos CatPhotoApp nuevamente para practicar el uso de selectores CSS.
+
+Para este desafío, usará el selector de atributos [attr = value] para diseñar las casillas de verificación en CatPhotoApp. Este selector combina y aplica estilo a elementos con un valor de atributo específico. Por ejemplo, el siguiente código cambia los márgenes de todos los elementos con el tipo de atributo y un valor correspondiente de radio:
+
+[type = 'radio'] {
+   margin: 20px 0px 20px 0px;
+}
+
+Usando el selector de atributo de tipo, intente dar a las casillas de verificación en CatPhotoApp un margen superior de 10px y un margen inferior de 15px.
