@@ -1,0 +1,20 @@
+Basic CSS: Use Clockwise Notation to Specify the Padding of an Element
+
+Instead of specifying an element's padding-top, padding-right, padding-bottom, and padding-left properties individually, you can specify them all in one line, like this:
+
+padding: 10px 20px 10px 20px;
+
+These four values work like a clock: top, right, bottom, left, and will produce the exact same result as using the side-specific padding instructions.
+
+Use Clockwise Notation to give the ".blue-box" class a padding of 40px on its top and left side, but only 20px on its bottom and right side.
+
+
+CSS básico: use la notación en el sentido de las agujas del reloj para especificar el relleno de un elemento
+
+En lugar de especificar las propiedades padding-top, padding-right, padding-bottom y padding-left de un elemento individualmente, puede especificarlas todas en una línea, así:
+
+relleno: 10px 20px 10px 20px;
+
+Estos cuatro valores funcionan como un reloj: arriba, derecha, abajo, izquierda y producirán exactamente el mismo resultado que usar las instrucciones de relleno específicas de los lados.
+
+Use la notación en el sentido de las agujas del reloj para darle a la clase ".blue-box" un relleno de 40 px en su parte superior e izquierda, pero solo 20 px en su parte inferior y derecha.

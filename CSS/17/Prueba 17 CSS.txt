@@ -18,3 +18,5 @@ Aquí, podemos ver que el cuadro azul y el cuadro rojo están anidados dentro de
 Cuando aumente el margen del cuadro azul, aumentará la distancia entre su borde y los elementos circundantes.
 
 Cambie el margen del cuadro azul para que coincida con el del cuadro rojo.
+
+

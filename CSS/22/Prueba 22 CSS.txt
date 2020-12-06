@@ -1,0 +1,24 @@
+Basic CSS: Use Clockwise Notation to Specify the Margin of an Element
+
+Let's try this again, but with margin this time.
+
+Instead of specifying an element's margin-top, margin-right, margin-bottom, and margin-left properties individually, you can specify them all in one line, like this:
+
+margin: 10px 20px 10px 20px;
+
+These four values work like a clock: top, right, bottom, left, and will produce the exact same result as using the side-specific margin instructions.
+
+Use Clockwise Notation to give the element with the blue-box class a margin of 40px on its top and left side, but only 20px on its bottom and right side.
+
+
+CSS básico: use la notación en sentido horario para especificar el margen de un elemento
+
+Intentemos esto de nuevo, pero con margen esta vez.
+
+En lugar de especificar las propiedades margin-top, margin-right, margin-bottom y margin-left de un elemento individualmente, puede especificarlas todas en una línea, así:
+
+margen: 10px 20px 10px 20px;
+
+Estos cuatro valores funcionan como un reloj: superior, derecha, inferior, izquierda y producirán exactamente el mismo resultado que si se utilizan las instrucciones de margen específicas de cada lado.
+
+Use la notación en el sentido de las agujas del reloj para darle al elemento con la clase de caja azul un margen de 40 px en su parte superior e izquierda, pero solo 20 px en su parte inferior y derecha.
