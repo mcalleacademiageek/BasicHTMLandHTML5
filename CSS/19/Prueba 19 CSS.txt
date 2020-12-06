@@ -1,0 +1,16 @@
+Basic CSS: Add Different Padding to Each Side of an Element
+
+Sometimes you will want to customize an element so that it has different amounts of padding on each of its sides.
+
+CSS allows you to control the padding of all four individual sides of an element with the padding-top, padding-right, padding-bottom, and padding-left properties.
+
+Give the blue box a padding of 40px on its top and left side, but only 20px on its bottom and right side.
+
+
+CSS básico: agregue un relleno diferente a cada lado de un elemento
+
+A veces querrá personalizar un elemento para que tenga diferentes cantidades de relleno en cada uno de sus lados.
+
+CSS le permite controlar el relleno de los cuatro lados individuales de un elemento con las propiedades padding-top, padding-right, padding-bottom y padding-left.
+
+Dale al cuadro azul un relleno de 40 px en la parte superior e izquierda, pero solo 20 px en la parte inferior y derecha.

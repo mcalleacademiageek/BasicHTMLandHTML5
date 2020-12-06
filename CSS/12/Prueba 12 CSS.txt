@@ -1,0 +1,12 @@
+Basic CSS: Make Circular Images with a border-radius
+
+In addition to pixels, you can also specify the border-radius using a percentage.
+
+Give your cat photo a border-radius of 50%.
+
+
+CSS básico: crea imágenes circulares con un radio de borde
+
+Además de los píxeles, también puede especificar el radio del borde mediante un porcentaje.
+
+Dale a tu foto de gato un border-radius del 50%.

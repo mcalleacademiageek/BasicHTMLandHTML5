@@ -1,0 +1,35 @@
+Basic CSS: Adjust the Padding of an Element
+
+Now let's put our Cat Photo App away for a little while and learn more about styling HTML.
+
+You may have already noticed this, but all HTML elements are essentially little rectangles.
+
+Three important properties control the space that surrounds each HTML element: padding, border, and margin.
+
+An element's padding controls the amount of space between the element's content and its border.
+
+Here, we can see that the blue box and the red box are nested within the yellow box. Note that the red box has more padding than the blue box.
+
+When you increase the blue box's padding, it will increase the distance (padding) between the text and the border around it.
+
+Change the padding of your blue box to match that of your red box.
+
+
+CSS básico: ajustar el relleno de un elemento
+
+Ahora dejemos de lado nuestra aplicación Cat Photo por un tiempo y aprendamos más sobre el estilo HTML.
+
+Puede que ya lo hayas notado, pero todos los elementos HTML son esencialmente pequeños rectángulos.
+
+Tres propiedades importantes controlan el espacio que rodea cada elemento HTML: relleno, borde y margen.
+
+El relleno de un elemento controla la cantidad de espacio entre el contenido del elemento y su borde.
+
+Aquí, podemos ver que el cuadro azul y el cuadro rojo están anidados dentro del cuadro amarillo. Tenga en cuenta que el cuadro rojo tiene más relleno que el cuadro azul.
+
+Cuando aumente el relleno del cuadro azul, aumentará la distancia (relleno) entre el texto y el borde que lo rodea.
+
+Cambie el relleno de su caja azul para que coincida con el de su caja roja.
+
+
+

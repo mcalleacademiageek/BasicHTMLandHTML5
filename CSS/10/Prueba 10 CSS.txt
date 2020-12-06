@@ -1,0 +1,40 @@
+Basic CSS: Add Borders Around Your Elements
+
+CSS borders have properties like style, color and width.
+
+For example, if we wanted to create a red, 5 pixel border around an HTML element, we could use this class:
+
+<style>
+  .thin-red-border {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+  }
+</style>
+
+Create a class called thick-green-border. This class should add a 10px, solid, green border around an HTML element. Apply the class to your cat photo.
+
+Remember that you can apply multiple classes to an element using its class attribute, by separating each class name with a space. For example:
+
+<img class="class1 class2">
+
+
+
+CSS básico: agregue bordes alrededor de sus elementos
+
+Los bordes CSS tienen propiedades como estilo, color y ancho.
+
+Por ejemplo, si quisiéramos crear un borde rojo de 5 píxeles alrededor de un elemento HTML, podríamos usar esta clase:
+
+<style>
+  .thin-red-border {
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+  }
+
+Crea una clase llamada thick-green-border. Esta clase debe agregar un borde verde sólido de 10 px alrededor de un elemento HTML. Aplica la clase a la foto de tu gato.
+
+Recuerde que puede aplicar múltiples clases a un elemento usando su atributo de clase, separando cada nombre de clase con un espacio. Por ejemplo:
+
+<img class = "class1 class2">
