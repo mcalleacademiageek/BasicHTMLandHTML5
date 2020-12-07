@@ -1,0 +1,27 @@
+Basic CSS: Style the HTML Body Element
+
+Now let's start fresh and talk about CSS inheritance.
+
+Every HTML page has a body element.
+
+We can prove that the body element exists here by giving it a background-color of black.
+
+We can do this by adding the following to our style element:
+
+body {
+  background-color: black;
+}
+
+
+
+Ahora comencemos de nuevo y hablemos de la herencia CSS.
+
+Cada página HTML tiene un elemento de cuerpo.
+
+Podemos probar que el elemento del cuerpo existe aquí dándole un color de fondo negro.
+
+Podemos hacer esto agregando lo siguiente a nuestro elemento de estilo:
+
+body {
+   background-color: black;
+}

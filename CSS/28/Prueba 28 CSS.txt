@@ -1,0 +1,38 @@
+Basic CSS: Override Styles in Subsequent CSS
+
+Our "pink-text" class overrode our body element's CSS declaration!
+
+We just proved that our classes will override the body element's CSS. So the next logical question is, what can we do to override our pink-text class?
+
+Create an additional CSS class called blue-text that gives an element the color blue. Make sure it's below your pink-text class declaration.
+
+Apply the blue-text class to your h1 element in addition to your pink-text class, and let's see which one wins.
+
+Applying multiple class attributes to a HTML element is done with a space between them like this:
+
+class="class1 class2"
+
+Note: It doesn't matter which order the classes are listed in the HTML element.
+
+However, the order of the class declarations in the <style> section is what is important. The second declaration will always take precedence over the first. Because .blue-text is declared second, it overrides the attributes of .pink-text
+
+
+CSS básico: anular estilos en CSS subsiguientes
+
+¡Nuestra clase "texto rosa" anuló la declaración CSS de nuestro elemento del cuerpo!
+
+Acabamos de demostrar que nuestras clases anularán el CSS del elemento del cuerpo. Entonces, la siguiente pregunta lógica es, ¿qué podemos hacer para anular nuestra clase de texto rosa?
+
+Cree una clase CSS adicional llamada texto azul que le dé a un elemento el color azul. Asegúrese de que esté debajo de la declaración de clase de texto rosa.
+
+Aplique la clase de texto azul a su elemento h1 además de su clase de texto rosa, y veamos cuál gana.
+
+La aplicación de múltiples atributos de clase a un elemento HTML se realiza con un espacio entre ellos como este:
+
+clase = "clase1 clase2"
+
+Nota: No importa en qué orden se enumeran las clases en el elemento HTML.
+
+Sin embargo, el orden de las declaraciones de clase en la sección <style> es lo importante. La segunda declaración siempre tendrá prioridad sobre la primera. Como .blue-text se declara en segundo lugar, anula los atributos de .pink-text
+
+

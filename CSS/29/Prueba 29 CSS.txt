@@ -1,0 +1,44 @@
+Basic CSS: Override Class Declarations by Styling ID Attributes
+
+We just proved that browsers read CSS from top to bottom in order of their declaration. That means that, in the event of a conflict, the browser will use whichever CSS declaration came last. Notice that if we even had put blue-text before pink-text in our h1 element's classes, it would still look at the declaration order and not the order of their use!
+
+But we're not done yet. There are other ways that you can override CSS. Do you remember id attributes?
+
+Let's override your pink-text and blue-text classes, and make your h1 element orange, by giving the h1 element an id and then styling that id.
+
+Give your h1 element the id attribute of orange-text. Remember, id styles look like this:
+
+<h1 id="orange-text">
+
+Leave the blue-text and pink-text classes on your h1 element.
+
+Create a CSS declaration for your orange-text id in your style element. Here's an example of what this looks like:
+
+#brown-text {
+  color: brown;
+}
+
+Note: It doesn't matter whether you declare this CSS above or below pink-text class, since id attribute will always take precedence.
+
+
+CSS básico: anular declaraciones de clase mediante atributos de ID de estilo
+
+Acabamos de demostrar que los navegadores leen CSS de arriba a abajo en el orden de su declaración. Eso significa que, en caso de conflicto, el navegador utilizará la última declaración de CSS. Tenga en cuenta que si incluso hubiéramos puesto blue-text antes de pink-text en las clases de nuestro elemento h1, ¡seguiría mirando el orden de declaración y no el orden de su uso!
+
+Pero aún no hemos terminado. Hay otras formas de anular CSS. ¿Recuerdas los atributos de identificación?
+
+Anulemos sus clases de texto rosa y texto azul, y hagamos que su elemento h1 sea naranja, dándole al elemento h1 una identificación y luego diseñando esa identificación.
+
+Dale a tu elemento h1 el atributo id de orange-text. Recuerde, los estilos de identificación se ven así:
+
+<h1 id="orange-text">
+
+Deje las clases de texto azul y texto rosa en su elemento h1.
+
+Cree una declaración CSS para su ID de texto naranja en su elemento de estilo. Aquí hay un ejemplo de cómo se ve esto:
+
+# brown-text {
+  color: brown;
+}
+
+Nota: No importa si declara este CSS por encima o por debajo de la clase de texto rosa, ya que el atributo id siempre tendrá prioridad.

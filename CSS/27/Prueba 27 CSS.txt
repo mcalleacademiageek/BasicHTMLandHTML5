@@ -1,0 +1,24 @@
+Basic CSS: Prioritize One Style Over Another
+
+Sometimes your HTML elements will receive multiple styles that conflict with one another.
+
+For example, your h1 element can't be both green and pink at the same time.
+
+Let's see what happens when we create a class that makes text pink, then apply it to an element. Will our class override the body element's color: green; CSS property?
+
+Create a CSS class called pink-text that gives an element the color pink.
+
+Give your h1 element the class of pink-text.
+
+
+CSS básico: priorizar un estilo sobre otro
+
+A veces, sus elementos HTML recibirán varios estilos que entran en conflicto entre sí.
+
+Por ejemplo, su elemento h1 no puede ser verde y rosa al mismo tiempo.
+
+Veamos qué sucede cuando creamos una clase que hace que el texto sea rosa y luego lo aplicamos a un elemento. ¿Nuestra clase anulará el color del elemento del cuerpo: verde; Propiedad CSS?
+
+Cree una clase CSS llamada texto rosa que le dé a un elemento el color rosa.
+
+Dale a tu elemento h1 la clase de texto rosa.

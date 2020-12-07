@@ -1,0 +1,24 @@
+Basic CSS: Understand Absolute versus Relative Units
+
+The last several challenges all set an element's margin or padding with pixels (px). Pixels are a type of length unit, which is what tells the browser how to size or space an item. In addition to px, CSS has a number of different length unit options that you can use.
+
+The two main types of length units are absolute and relative. Absolute units tie to physical units of length. For example, in and mm refer to inches and millimeters, respectively. Absolute length units approximate the actual measurement on a screen, but there are some differences depending on a screen's resolution.
+
+Relative units, such as em or rem, are relative to another length value. For example, em is based on the size of an element's font. If you use it to set the font-size property itself, it's relative to the parent's font-size.
+
+Note: There are several relative unit options that are tied to the size of the viewport. They are covered in the Responsive Web Design Principles section.
+
+Add a padding property to the element with class red-box and set it to 1.5em.
+
+
+CSS básico: comprender las unidades absolutas frente a las relativas
+
+Todos los últimos desafíos establecen el margen o el relleno de un elemento con píxeles (px). Los píxeles son un tipo de unidad de longitud, que es lo que le dice al navegador cómo dimensionar o espaciar un elemento. Además de px, CSS tiene varias opciones de unidades de longitud diferentes que puede utilizar.
+
+Los dos tipos principales de unidades de longitud son absolutas y relativas. Las unidades absolutas se relacionan con las unidades físicas de longitud. Por ejemplo, in y mm se refieren a pulgadas y milímetros, respectivamente. Las unidades de longitud absoluta se aproximan a la medida real en una pantalla, pero existen algunas diferencias según la resolución de la pantalla.
+
+Las unidades relativas, como em o rem, son relativas a otro valor de longitud. Por ejemplo, em se basa en el tamaño de la fuente de un elemento. Si lo usa para establecer la propiedad de tamaño de fuente en sí, es relativo al tamaño de fuente del padre.
+
+Nota: Hay varias opciones de unidades relativas que están vinculadas al tamaño de la ventana gráfica. Se tratan en la sección Principios de diseño web adaptable.
+
+Agregue una propiedad de relleno al elemento con class red-box y configúrelo en 1.5em.

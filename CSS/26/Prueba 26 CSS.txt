@@ -1,0 +1,24 @@
+Basic CSS: Inherit Styles from the Body Element
+
+Now we've proven that every HTML page has a body element, and that its body element can also be styled with CSS.
+
+Remember, you can style your body element just like any other HTML element, and all your other elements will inherit your body element's styles.
+
+First, create a h1 element with the text Hello World
+
+Then, let's give all elements on your page the color of green by adding color: green; to your body element's style declaration.
+
+Finally, give your body element the font-family of monospace by adding font-family: monospace; to your body element's style declaration.
+
+
+CSS básico: heredar estilos del elemento del cuerpo
+
+Ahora hemos demostrado que cada página HTML tiene un elemento de cuerpo, y que su elemento de cuerpo también se puede diseñar con CSS.
+
+Recuerde, puede diseñar su elemento de cuerpo como cualquier otro elemento HTML, y todos sus otros elementos heredarán los estilos de su elemento de cuerpo.
+
+Primero, cree un elemento h1 con el texto Hello World
+
+Luego, démosle a todos los elementos de su página el color verde agregando color: green; a la declaración de estilo de su elemento corporal.
+
+Finalmente, dale a tu elemento de cuerpo la familia de fuentes de monoespacio agregando font-family: monospace; a la declaración de estilo de su elemento corporal.
