@@ -1,0 +1,22 @@
+Basic CSS: Use RGB to Mix Colors
+
+Just like with hex code, you can mix colors in RGB by using combinations of different values.
+
+Replace the hex codes in our style element with their correct RGB values.
+Color	RGB
+Blue	rgb(0, 0, 255)
+Red 	rgb(255, 0, 0)
+Orchid	rgb(218, 112, 214)
+Sienna	rgb(160, 82, 45)
+
+
+CSS básico: use RGB para mezclar colores
+
+Al igual que con el código hexadecimal, puede mezclar colores en RGB utilizando combinaciones de diferentes valores.
+
+Reemplace los códigos hexadecimales en nuestro elemento de estilo con sus valores RGB correctos.
+Color RGB
+RGB azul (0, 0, 255)
+RGB rojo (255, 0, 0)
+Orquídea rgb (218, 112, 214)
+Siena rgb (160, 82, 45)

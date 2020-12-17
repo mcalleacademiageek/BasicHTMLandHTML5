@@ -1,0 +1,40 @@
+Basic CSS: Use Hex Code to Mix Colors
+
+To review, hex codes use 6 hexadecimal digits to represent colors, two each for red (R), green (G), and blue (B) components.
+
+From these three pure colors (red, green, and blue), we can vary the amounts of each to create over 16 million other colors!
+
+For example, orange is pure red, mixed with some green, and no blue. In hex code, this translates to being #FFA500.
+
+The digit 0 is the lowest number in hex code, and represents a complete absence of color.
+
+The digit F is the highest number in hex code, and represents the maximum possible brightness.
+
+Replace the color words in our style element with their correct hex codes.
+
+Color	Hex Code
+Dodger Blue	#1E90FF
+Green	#00FF00
+Orange	#FFA500
+Red	#FF0000
+
+
+CSS básico: use código hexadecimal para mezclar colores
+
+Para revisar, los códigos hexadecimales usan 6 dígitos hexadecimales para representar colores, dos para cada componente rojo (R), verde (G) y azul (B).
+
+De estos tres colores puros (rojo, verde y azul), podemos variar las cantidades de cada uno para crear más de 16 millones de otros colores.
+
+Por ejemplo, el naranja es rojo puro, mezclado con algo de verde y no azul. En código hexadecimal, esto se traduce en # FFA500.
+
+El dígito 0 es el número más bajo en código hexadecimal y representa una ausencia total de color.
+
+El dígito F es el número más alto en código hexadecimal y representa el brillo máximo posible.
+
+Reemplace las palabras de color en nuestro elemento de estilo con sus códigos hexadecimales correctos.
+
+Código hexadecimal de color
+Dodger Blue # 1E90FF
+Verde # 00FF00
+Naranja # FFA500
+Rojo # FF0000
