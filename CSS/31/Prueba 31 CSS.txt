@@ -14,7 +14,7 @@ An example of how to do this is:
 
 color: red !important;
 
-prueba
+
 CSS básico: anule todos los demás estilos mediante Importante
 
 ¡Hurra! Acabamos de demostrar que los estilos en línea anularán todas las declaraciones CSS en su elemento de estilo.
