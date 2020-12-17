@@ -1,0 +1,20 @@
+Basic CSS: Improve Compatibility with Browser Fallbacks
+
+When working with CSS you will likely run into browser compatibility issues at some point. This is why it's important to provide browser fallbacks to avoid potential problems.
+
+When your browser parses the CSS of a webpage, it ignores any properties that it doesn't recognize or support. For example, if you use a CSS variable to assign a background color on a site, Internet Explorer will ignore the background color because it does not support CSS variables. In that case, the browser will use whatever value it has for that property. If it can't find any other value set for that property, it will revert to the default value, which is typically not ideal.
+
+This means that if you do want to provide a browser fallback, it's as easy as providing another more widely supported value immediately before your declaration. That way an older browser will have something to fall back on, while a newer browser will just interpret whatever declaration comes later in the cascade.
+
+It looks like a variable is being used to set the background color of the .red-box class. Let's improve our browser compatibility by adding another background declaration right before the existing declaration and set its value to red.
+
+
+CSS básico: mejore la compatibilidad con alternativas de navegador
+
+Cuando trabaje con CSS, probablemente se encontrará con problemas de compatibilidad del navegador en algún momento. Por eso es importante proporcionar alternativas de navegador para evitar problemas potenciales.
+
+Cuando su navegador analiza el CSS de una página web, ignora las propiedades que no reconoce o no admite. Por ejemplo, si usa una variable CSS para asignar un color de fondo en un sitio, Internet Explorer ignorará el color de fondo porque no admite variables CSS. En ese caso, el navegador utilizará cualquier valor que tenga para esa propiedad. Si no puede encontrar ningún otro valor establecido para esa propiedad, volverá al valor predeterminado, que normalmente no es el ideal.
+
+Esto significa que si desea proporcionar un respaldo del navegador, es tan fácil como proporcionar otro valor más ampliamente compatible inmediatamente antes de su declaración. De esa manera, un navegador más antiguo tendrá algo a lo que recurrir, mientras que un navegador más nuevo simplemente interpretará cualquier declaración que venga más adelante en la cascada.
+
+Parece que se está utilizando una variable para establecer el color de fondo de la clase .red-box. Mejoremos la compatibilidad de nuestro navegador agregando otra declaración de fondo justo antes de la declaración existente y establezcamos su valor en rojo.
