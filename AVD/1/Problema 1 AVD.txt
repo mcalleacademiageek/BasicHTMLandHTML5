@@ -1,0 +1,32 @@
+Applied Visual Design: Create Visual Balance Using the text-align Property
+
+This section of the curriculum focuses on Applied Visual Design. The first group of challenges build on the given card layout to show a number of core principles.
+
+Text is often a large part of web content. CSS has several options for how to align it with the text-align property.
+
+text-align: justify; causes all lines of text except the last line to meet the left and right edges of the line box.
+
+text-align: center; centers the text
+
+text-align: right; right-aligns the text
+
+And text-align: left; (the default) left-aligns the text.
+
+Align the h4 tag's text, which says "Google", to the center. Then justify the paragraph tag which contains information about how Google was founded.
+
+
+Diseño visual aplicado: crear equilibrio visual con la propiedad de alineación de texto
+
+Esta sección del plan de estudios se centra en el diseño visual aplicado. El primer grupo de desafíos se basa en el diseño de la tarjeta dada para mostrar una serie de principios básicos.
+
+El texto suele ser una gran parte del contenido web. CSS tiene varias opciones sobre cómo alinearlo con la propiedad text-align.
+
+alinear texto: justificar; hace que todas las líneas de texto, excepto la última, coincidan con los bordes izquierdo y derecho del cuadro de línea.
+
+text-align: center; centra el texto
+
+text-align: right; alinea el texto a la derecha
+
+Y text-align: left;  (predeterminado) alinea el texto a la izquierda.
+
+Alinee el texto de la etiqueta h4, que dice "Google", con el centro. Luego justifique la etiqueta de párrafo que contiene información sobre cómo se fundó Google.
