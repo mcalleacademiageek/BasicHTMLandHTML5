@@ -1,0 +1,16 @@
+Basic CSS: Change a variable for a specific area
+
+When you create your variables in :root they will set the value of that variable for the whole page.
+
+You can then over-write these variables by setting them again within a specific element.
+
+Change the value of --penguin-belly to white in the penguin class.
+
+
+CSS básico: cambiar una variable para un área específica
+
+Cuando crea sus variables en: root, establecerán el valor de esa variable para toda la página.
+
+Luego puede sobrescribir estas variables configurándolas nuevamente dentro de un elemento específico.
+
+Cambie el valor de --penguin-belly a blanco en la clase pingüino.

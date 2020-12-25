@@ -2,9 +2,19 @@ Basic CSS: Inherit CSS Variables
 
 When you create a variable, it is available for you to use inside the selector in which you create it. It also is available in any of that selector's descendants. This happens because CSS variables are inherited, just like ordinary properties.
 
-To make use of inheritance, CSS variables are often defined in the
-element.
+To make use of inheritance, CSS variables are often defined in the element.
 
 :root is a pseudo-class selector that matches the root element of the document, usually the html element. By creating your variables in :root, they will be available globally and can be accessed from any other selector in the style sheet.
 
 Define a variable named --penguin-belly in the :root selector and give it the value of pink. You can then see that the variable is inherited and that all the child elements which use it get pink backgrounds.
+
+
+CSS básico: heredar variables CSS
+
+Cuando crea una variable, está disponible para su uso dentro del selector en el que la crea. También está disponible en cualquiera de los descendientes de ese selector. Esto sucede porque las variables CSS se heredan, al igual que las propiedades ordinarias.
+
+Para hacer uso de la herencia, las variables CSS a menudo se definen en el elemento.
+
+: root es un selector de pseudoclase que coincide con el elemento raíz del documento, normalmente el elemento html. Al crear sus variables en: root, estarán disponibles globalmente y se puede acceder a ellas desde cualquier otro selector en la hoja de estilo.
+
+Defina una variable llamada --penguin-belly en el selector de raíz: y asígnele el valor de rosa. Luego puede ver que la variable se hereda y que todos los elementos secundarios que la usan obtienen fondos rosados.
