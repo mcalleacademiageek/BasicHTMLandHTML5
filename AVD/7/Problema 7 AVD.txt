@@ -1,0 +1,12 @@
+Applied Visual Design: Use the s Tag to Strikethrough Text
+
+To strikethrough text, which is when a horizontal line cuts across the characters, you can use the s tag. It shows that a section of text is no longer valid. With the s tag, the browser applies the CSS of text-decoration: line-through; to the element.
+
+Wrap the s tag around "Google" inside the h4 tag and then add the word "Alphabet" beside it, which should not have the strikethrough formatting.
+
+
+Diseño visual aplicado: use la etiqueta s para tachar el texto
+
+Para tachar el texto, que es cuando una línea horizontal cruza los caracteres, puede usar la etiqueta s. Muestra que una sección de texto ya no es válida. Con la etiqueta s, el navegador aplica el CSS de text-decoration: line-through; al elemento.
+
+Envuelva la etiqueta s alrededor de "Google" dentro de la etiqueta h4 y luego agregue la palabra "Alphabet" al lado, que no debe tener el formato tachado.

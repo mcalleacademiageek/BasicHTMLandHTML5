@@ -1,0 +1,12 @@
+Applied Visual Design: Adjust the Size of a Header Versus a Paragraph Tag
+
+The font size of header tags (h1 through h6) should generally be larger than the font size of paragraph tags. This makes it easier for the user to visually understand the layout and level of importance of everything on the page. You use the font-size property to adjust the size of the text in an element.
+
+To make the heading significantly larger than the paragraph, change the font-size of the h4 tag to 27 pixels.
+
+
+Diseño visual aplicado: ajuste el tamaño de un encabezado frente a una etiqueta de párrafo
+
+El tamaño de fuente de las etiquetas de encabezado (h1 a h6) generalmente debe ser mayor que el tamaño de fuente de las etiquetas de párrafo. Esto hace que sea más fácil para el usuario comprender visualmente el diseño y el nivel de importancia de todo en la página. Utiliza la propiedad font-size para ajustar el tamaño del texto en un elemento.
+
+Para hacer que el encabezado sea significativamente más grande que el párrafo, cambie el tamaño de fuente de la etiqueta h4 a 27 píxeles.

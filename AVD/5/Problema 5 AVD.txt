@@ -1,0 +1,16 @@
+Applied Visual Design: Use the u Tag to Underline Text
+
+To underline text, you can use the u tag. This is often used to signify that a section of text is important, or something to remember. With the u tag, the browser applies the CSS of text-decoration: underline; to the element.
+
+Wrap the u tag only around the text "Ph.D. students".
+
+Note: Try to avoid using the u tag when it could be confused for a link. Anchor tags also have a default underlined formatting.
+
+
+Diseño visual aplicado: use la etiqueta u para subrayar el texto
+
+Para subrayar el texto, puede utilizar la etiqueta u. Esto se usa a menudo para indicar que una sección del texto es importante o algo para recordar. Con la etiqueta u, el navegador aplica el CSS de text-decoration: underline; al elemento.
+
+Envuelva la etiqueta u solo alrededor del texto "Ph.D. students".
+
+Nota: Trate de evitar usar la etiqueta u cuando pueda confundirse con un enlace. Las etiquetas de ancla también tienen un formato subrayado predeterminado.

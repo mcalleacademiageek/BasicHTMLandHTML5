@@ -1,0 +1,36 @@
+Applied Visual Design: Adjust the background-color Property of Text
+
+Instead of adjusting your overall background or the color of the text to make the foreground easily readable, you can add a background-color to the element holding the text you want to emphasize. This challenge uses rgba() instead of hex codes or normal rgb().
+
+    rgba stands for:
+      r = red
+      g = green
+      b = blue
+      a = alpha/level of opacity
+
+The RGB values can range from 0 to 255. The alpha value can range from 1, which is fully opaque or a solid color, to 0, which is fully transparent or clear. rgba() is great to use in this case, as it allows you to adjust the opacity. This means you don't have to completely block out the background.
+
+You'll use background-color: rgba(45, 45, 45, 0.1) for this challenge. It produces a dark gray color that is nearly transparent given the low opacity value of 0.1.
+
+To make the text stand out more, adjust the background-color of the h4 element to the given rgba() value.
+
+Also for the h4, remove the height property and add padding of 10px.
+
+
+Diseño visual aplicado: ajuste la propiedad de color de fondo del texto
+
+En lugar de ajustar el fondo general o el color del texto para que el primer plano sea fácilmente legible, puede agregar un color de fondo al elemento que contiene el texto que desea enfatizar. Este desafío usa rgba () en lugar de códigos hexadecimales o rgb () normal.
+
+    rgba significa:
+      r = rojo
+      g = verde
+      b = azul
+      a = alfa / nivel de opacidad
+
+Los valores RGB pueden oscilar entre 0 y 255. El valor alfa puede oscilar entre 1, que es completamente opaco o de color sólido, y 0, que es completamente transparente o claro. rgba () es excelente para usar en este caso, ya que le permite ajustar la opacidad. Esto significa que no tiene que bloquear completamente el fondo.
+
+Usarás background-color: rgba (45, 45, 45, 0.1) para este desafío. Produce un color gris oscuro que es casi transparente dado el bajo valor de opacidad de 0,1.
+
+Para hacer que el texto destaque más, ajuste el color de fondo del elemento h4 al valor rgba () dado.
+
+También para el h4, elimine la propiedad de altura y agregue un relleno de 10px.

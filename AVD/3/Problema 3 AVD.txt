@@ -1,0 +1,24 @@
+Applied Visual Design: Adjust the Height of an Element Using the height Property
+
+You can specify the height of an element using the height property in CSS, similar to the width property. Here's an example that changes the height of an image to 20px:
+
+img {
+  height: 20px;
+}
+
+Add a height property to the h4 tag and set it to 25px.
+
+Note: You may need to be at 100% zoom to pass the test on this challenge.
+
+
+Diseño visual aplicado: ajuste la altura de un elemento mediante la propiedad height
+
+Puede especificar la altura de un elemento utilizando la propiedad de altura en CSS, similar a la propiedad de ancho. Aquí hay un ejemplo que cambia la altura de una imagen a 20 px:
+
+img {
+  height: 20px;
+}
+
+Agrega una propiedad de altura a la etiqueta h4 y configúrala en 25px.
+
+Nota: Es posible que deba tener un zoom del 100% para aprobar la prueba de este desafío.

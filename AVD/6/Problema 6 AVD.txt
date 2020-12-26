@@ -1,0 +1,12 @@
+Applied Visual Design: Use the em Tag to Italicize Text
+
+To emphasize text, you can use the em tag. This displays text as italicized, as the browser applies the CSS of font-style: italic; to the element.
+
+Wrap an em tag around the contents of the paragraph tag to give it emphasis.
+
+
+Diseño visual aplicado: use la etiqueta em para poner el texto en cursiva
+
+Para enfatizar el texto, puede usar la etiqueta em. Esto muestra el texto en cursiva, ya que el navegador aplica el CSS de font-style: italic; al elemento.
+
+Envuelva una etiqueta em alrededor del contenido de la etiqueta de párrafo para darle énfasis.

@@ -1,0 +1,16 @@
+Applied Visual Design: Create a Horizontal Line Using the hr Element
+
+You can use the hr tag to add a horizontal line across the width of its containing element. This can be used to define a change in topic or to visually separate groups of content.
+
+Add an hr tag underneath the h4 which contains the card title.
+
+Note: In HTML, hr is a self-closing tag, and therefore doesn't need a separate closing tag.
+
+
+Diseño visual aplicado: cree una línea horizontal utilizando el elemento hr
+
+Puede usar la etiqueta hr para agregar una línea horizontal a lo ancho de su elemento contenedor. Esto se puede utilizar para definir un cambio de tema o para separar visualmente grupos de contenido.
+
+Agregue una etiqueta hr debajo de h4 que contiene el título de la tarjeta.
+
+Nota: En HTML, hr es una etiqueta de cierre automático y, por lo tanto, no necesita una etiqueta de cierre independiente.

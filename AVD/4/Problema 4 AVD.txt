@@ -1,0 +1,12 @@
+Applied Visual Design: Use the strong Tag to Make Text Bold
+
+To make text bold, you can use the strong tag. This is often used to draw attention to text and symbolize that it is important. With the strong tag, the browser applies the CSS of font-weight: bold; to the element.
+
+Wrap a strong tag around "Stanford University" inside the p tag (do not include the period).
+
+
+Diseño visual aplicado: use la etiqueta strong para hacer el texto en negrita
+
+Para poner el texto en negrita, puede usar la etiqueta strong. Esto se usa a menudo para llamar la atención sobre el texto y simbolizar que es importante. Con la etiqueta strong, el navegador aplica el CSS de font-weight: bold; al elemento.
+
+Envuelva una etiqueta strong alrededor de "Stanford University" dentro de la etiqueta p (no incluya el punto).
