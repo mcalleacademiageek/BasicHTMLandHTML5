@@ -1,0 +1,31 @@
+Applied Visual Design: Use the text-transform Property to Make Text Uppercase
+
+The text-transform property in CSS is used to change the appearance of text. It's a convenient way to make sure text on a webpage appears consistently, without having to change the text content of the actual HTML elements.
+
+The following table shows how the different text-transformvalues change the example text "Transform me".
+Value	     Result
+lowercase	"transform me"
+uppercase	"TRANSFORM ME"
+capitalize	"Transform Me"
+initial	    Use the default value
+inherit	    Use the text-transform value from the parent element
+none	    Default: Use the original text
+
+Transform the text of the h4 to be uppercase using the text-transform property.
+
+
+Diseño visual aplicado: use la propiedad de transformación de texto para convertir el texto en mayúsculas
+
+La propiedad text-transform en CSS se usa para cambiar la apariencia del texto. Es una forma conveniente de asegurarse de que el texto de una página web aparezca de forma coherente, sin tener que cambiar el contenido del texto de los elementos HTML reales.
+
+La siguiente tabla muestra cómo los diferentes valores de transformación de texto cambian el texto de ejemplo "Transfórmame".
+
+Valor       Resultado
+lowercase	"transform me"
+uppercase	"TRANSFORM ME"
+capitalize	"Transform Me"
+initial	    Usar el valor predeterminado
+inherit     Usa el valor de transformación de texto del elemento padre
+none        Predeterminado: usar el texto original
+
+Transforme el texto de h4 en mayúsculas usando la propiedad text-transform.

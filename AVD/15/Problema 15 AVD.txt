@@ -1,0 +1,26 @@
+Applied Visual Design: Set the font-weight for Multiple Heading Elements
+
+You set the font-size of each heading tag in the last challenge, here you'll adjust the font-weight.
+
+The font-weight property sets how thick or thin characters are in a section of text.
+
+    Set the font-weight of the h1 tag to 800.
+    Set the font-weight of the h2 tag to 600.
+    Set the font-weight of the h3 tag to 500.
+    Set the font-weight of the h4 tag to 400.
+    Set the font-weight of the h5 tag to 300.
+    Set the font-weight of the h6 tag to 200.
+
+
+Diseño visual aplicado: establezca el peso de la fuente para varios elementos de encabezado
+
+Establece el tamaño de fuente de cada etiqueta de encabezado en el último desafío, aquí ajustará el peso de la fuente.
+
+La propiedad font-weight establece el grosor o el grosor de los caracteres en una sección de texto.
+
+     Establezca el peso de fuente de la etiqueta h1 en 800.
+     Establezca el peso de fuente de la etiqueta h2 en 600.
+     Establezca el peso de fuente de la etiqueta h3 en 500.
+     Establezca el peso de fuente de la etiqueta h4 en 400.
+     Establezca el peso de fuente de la etiqueta h5 en 300.
+     Establezca el peso de fuente de la etiqueta h6 en 200.

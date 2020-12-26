@@ -1,0 +1,45 @@
+Applied Visual Design: Add a box-shadow to a Card-like Element
+
+The box-shadow property applies one or more shadows to an element.
+
+The box-shadow property takes values for
+
+    offset-x (how far to push the shadow horizontally from the element),
+    offset-y (how far to push the shadow vertically from the element),
+    blur-radius,
+    spread-radius and
+    color, in that order.
+
+The blur-radius and spread-radius values are optional.
+
+Multiple box-shadows can be created by using commas to separate properties of each box-shadow element.
+
+Here's an example of the CSS to create multiple shadows with some blur, at mostly-transparent black colors:
+
+box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+The element now has an id of thumbnail. With this selector, use the example CSS values above to place a box-shadow on the card.
+
+
+Diseño visual aplicado: agregue una sombra de cuadro a un elemento similar a una tarjeta
+
+La propiedad box-shadow aplica una o más sombras a un elemento.
+
+La propiedad box-shadow toma valores para
+
+     offset-x (cuánto empujar la sombra horizontalmente desde el elemento),
+     offset-y (qué tan lejos empujar la sombra verticalmente desde el elemento),
+     blur-radius,
+     spread-radius y
+     color, en ese orden.
+
+Los valores de radio de desenfoque y radio de extensión son opcionales.
+
+Se pueden crear varias sombras de caja usando comas para separar las propiedades de cada elemento de sombra de caja.
+
+Aquí hay un ejemplo de CSS para crear múltiples sombras con algo de desenfoque, en colores negros mayormente transparentes:
+
+box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+
+
+El elemento ahora tiene una identificación de miniatura. Con este selector, use los valores CSS de ejemplo anteriores para colocar una sombra de cuadro en la tarjeta.
