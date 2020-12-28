@@ -1,0 +1,32 @@
+Applied Visual Design: Learn about Tertiary Colors
+
+Computer monitors and device screens create different colors by combining amounts of red, green, and blue light. This is known as the RGB additive color model in modern color theory. Red (R), green (G), and blue (B) are called primary colors. Mixing two primary colors creates the secondary colors cyan (G + B), magenta (R + B) and yellow (R + G). You saw these colors in the Complementary Colors challenge. These secondary colors happen to be the complement to the primary color not used in their creation, and are opposite to that primary color on the color wheel. For example, magenta is made with red and blue, and is the complement to green.
+
+Tertiary colors are the result of combining a primary color with one of its secondary color neighbors. For example, within the RGB color model, red (primary) and yellow (secondary) make orange (tertiary). This adds six more colors to a simple color wheel for a total of twelve.
+
+There are various methods of selecting different colors that result in a harmonious combination in design. One example that can use tertiary colors is called the split-complementary color scheme. This scheme starts with a base color, then pairs it with the two colors that are adjacent to its complement. The three colors provide strong visual contrast in a design, but are more subtle than using two complementary colors.
+
+Here are three colors created using the split-complement scheme:
+Color	Hex Code
+orange	#FF7F00
+cyan	#00FFFF
+raspberry	#FF007F
+
+Change the background-color property of the orange, cyan, and raspberry classes to their respective colors. Make sure to use the hex codes and not the color names.
+
+
+Diseño visual aplicado: más información sobre los colores terciarios
+
+Los monitores de computadora y las pantallas de los dispositivos crean diferentes colores al combinar cantidades de luz roja, verde y azul. Esto se conoce como el modelo de color aditivo RGB en la teoría moderna del color. El rojo (R), el verde (G) y el azul (B) se denominan colores primarios. La mezcla de dos colores primarios crea los colores secundarios cian (G + B), magenta (R + B) y amarillo (R + G). Viste estos colores en el desafío Colores complementarios. Estos colores secundarios resultan ser el complemento del color primario que no se usó en su creación, y son opuestos a ese color primario en la rueda de colores. Por ejemplo, el magenta está hecho con rojo y azul, y es el complemento del verde.
+
+Los colores terciarios son el resultado de combinar un color primario con uno de sus colores secundarios vecinos. Por ejemplo, dentro del modelo de color RGB, el rojo (primario) y el amarillo (secundario) forman el naranja (terciario). Esto agrega seis colores más a una rueda de colores simple para un total de doce.
+
+Hay varios métodos para seleccionar diferentes colores que dan como resultado una combinación armoniosa en el diseño. Un ejemplo que puede usar colores terciarios se llama esquema de color complementario dividido. Este esquema comienza con un color base, luego lo empareja con los dos colores adyacentes a su complemento. Los tres colores proporcionan un fuerte contraste visual en un diseño, pero son más sutiles que usar dos colores complementarios.
+
+Aquí hay tres colores creados usando el esquema de complemento dividido:
+Código hexadecimal de color
+naranja #FF7F00
+cian #00FFFF
+frambuesa #FF007F
+
+Cambie la propiedad de color de fondo de las clases naranja, cian y frambuesa a sus respectivos colores. Asegúrese de utilizar los códigos hexadecimales y no los nombres de los colores.

@@ -1,0 +1,41 @@
+Applied Visual Design: Learn about Complementary Colors
+
+Color theory and its impact on design is a deep topic and only the basics are covered in the following challenges. On a website, color can draw attention to content, evoke emotions, or create visual harmony. Using different combinations of colors can really change the look of a website, and a lot of thought can go into picking a color palette that works with your content.
+
+The color wheel is a useful tool to visualize how colors relate to each other - it's a circle where similar hues are neighbors and different hues are farther apart. When two colors are opposite each other on the wheel, they are called complementary colors. They have the characteristic that if they are combined, they "cancel" each other out and create a gray color. However, when placed side-by-side, these colors appear more vibrant and produce a strong visual contrast.
+
+Some examples of complementary colors with their hex codes are:
+
+    red (#FF0000) and cyan (#00FFFF)
+    green (#00FF00) and magenta (#FF00FF)
+    blue (#0000FF) and yellow (#FFFF00)
+
+This is different than the outdated RYB color model that many of us were taught in school, which has different primary and complementary colors. Modern color theory uses the additive RGB model (like on a computer screen) and the subtractive CMY(K) model (like in printing). Read here for more information on this complex subject.
+
+There are many color picking tools available online that have an option to find the complement of a color.
+
+Note: For all color challenges: Using color can be a powerful way to add visual interest to a page. However, color alone should not be used as the only way to convey important information because users with visual impairments may not understand that content. This issue will be covered in more detail in the Applied Accessibility challenges.
+
+Change the background-color property of the blue and yellow classes to their respective colors. Notice how the colors look different next to each other than they do compared against the white background.
+
+
+Diseño visual aplicado: aprenda sobre colores complementarios
+
+La teoría del color y su impacto en el diseño es un tema profundo y solo se cubren los conceptos básicos en los siguientes desafíos. En un sitio web, el color puede llamar la atención sobre el contenido, evocar emociones o crear armonía visual. El uso de diferentes combinaciones de colores puede realmente cambiar el aspecto de un sitio web, y se puede pensar mucho en elegir una paleta de colores que funcione con su contenido.
+
+La rueda de colores es una herramienta útil para visualizar cómo se relacionan los colores entre sí: es un círculo donde los tonos similares son vecinos y los diferentes tonos están más separados. Cuando dos colores están uno frente al otro en la rueda, se denominan colores complementarios. Tienen la característica de que si se combinan, se "cancelan" entre sí y crean un color gris. Sin embargo, cuando se colocan uno al lado del otro, estos colores parecen más vibrantes y producen un fuerte contraste visual.
+
+Algunos ejemplos de colores complementarios con sus códigos hexadecimales son:
+
+    rojo (#FF0000) y cian (#00FFFF)
+    verde (#00FF00) y magenta (#FF00FF)
+    azul (#0000FF) y amarillo (#FFFF00)
+
+Esto es diferente al anticuado modelo de color RYB que a muchos de nosotros nos enseñaron en la escuela, que tiene diferentes colores primarios y complementarios. La teoría del color moderna utiliza el modelo RGB aditivo (como en la pantalla de una computadora) y el modelo CMY (K) sustractivo (como en la impresión). Lea aquí para obtener más información sobre este tema complejo.
+
+Hay muchas herramientas de selección de color disponibles en línea que tienen la opción de encontrar el complemento de un color.
+
+Nota: Para todos los desafíos de color: el uso del color puede ser una forma poderosa de agregar interés visual a una página. Sin embargo, el color por sí solo no debe utilizarse como la única forma de transmitir información importante porque es posible que los usuarios con discapacidad visual no comprendan ese contenido. Este tema se tratará con más detalle en los desafíos de accesibilidad aplicada.
+
+Cambie la propiedad de color de fondo de las clases azul y amarillo a sus respectivos colores. Observe cómo los colores se ven diferentes entre sí en comparación con el fondo blanco.
+

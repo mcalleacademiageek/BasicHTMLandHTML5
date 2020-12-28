@@ -1,0 +1,12 @@
+Applied Visual Design: Move a Relatively Positioned Element with CSS Offsets
+
+The CSS offsets of top or bottom, and left or right tell the browser how far to offset an item relative to where it would sit in the normal flow of the document. You're offsetting an element away from a given spot, which moves the element away from the referenced side (effectively, the opposite direction). As you saw in the last challenge, using the top offset moved the h2 downwards. Likewise, using a left offset moves an item to the right.
+
+Use CSS offsets to move the h2 15 pixels to the right and 10 pixels up.
+
+
+Diseño visual aplicado: mueva un elemento en posición relativa con desplazamientos CSS
+
+Los desplazamientos de CSS de la parte superior o inferior, y de la izquierda o la derecha, le indican al navegador cuánto desplazar un elemento en relación con su ubicación en el flujo normal del documento. Estás desplazando un elemento lejos de un punto dado, lo que aleja el elemento del lado referenciado (efectivamente, la dirección opuesta). Como viste en el último desafío, usar el desplazamiento superior movió el h2 hacia abajo. Del mismo modo, el uso de un desplazamiento a la izquierda mueve un elemento a la derecha.
+
+Utilice compensaciones CSS para mover el h2 15 píxeles a la derecha y 10 píxeles hacia arriba.

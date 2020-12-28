@@ -1,0 +1,12 @@
+Applied Visual Design: Push Elements Left or Right with the float Property
+
+The next positioning tool does not actually use position, but sets the float property of an element. Floating elements are removed from the normal flow of a document and pushed to either the left or right of their containing parent element. It's commonly used with the width property to specify how much horizontal space the floated element requires.
+
+The given markup would work well as a two-column layout, with the section and aside elements next to each other. Give the #left item a float of left and the #right item a float of right.
+
+
+Diseño visual aplicado: empuje los elementos hacia la izquierda o hacia la derecha con la propiedad flotante
+
+La siguiente herramienta de posicionamiento no usa la posición, pero establece la propiedad flotante de un elemento. Los elementos flotantes se eliminan del flujo normal de un documento y se empujan hacia la izquierda o hacia la derecha del elemento principal que los contiene. Se usa comúnmente con la propiedad width para especificar cuánto espacio horizontal requiere el elemento flotante.
+
+El marcado dado funcionaría bien como un diseño de dos columnas, con la sección y los elementos laterales uno al lado del otro. Dale al elemento #left un flotador de left y al artículo #right un flotador de right.

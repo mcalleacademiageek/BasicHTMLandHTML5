@@ -1,0 +1,12 @@
+Applied Visual Design: Set the font-size of Paragraph Text
+
+The font-size property in CSS is not limited to headings, it can be applied to any element containing text.
+
+Change the value of the font-size property for the paragraph to 16px to make it more visible.
+
+
+Diseño visual aplicado: establezca el tamaño de fuente del texto del párrafo
+
+La propiedad de tamaño de fuente en CSS no se limita a los encabezados, se puede aplicar a cualquier elemento que contenga texto.
+
+Cambie el valor de la propiedad de tamaño de fuente para el párrafo a 16px para hacerlo más visible.

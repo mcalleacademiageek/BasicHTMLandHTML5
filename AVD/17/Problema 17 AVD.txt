@@ -1,0 +1,12 @@
+Applied Visual Design: Set the line-height of Paragraphs
+
+CSS offers the line-height property to change the height of each line in a block of text. As the name suggests, it changes the amount of vertical space that each line of text gets.
+
+Add a line-height property to the p tag and set it to 25px.
+
+
+Diseño visual aplicado: establezca la altura de línea de los párrafos
+
+CSS ofrece la propiedad line-height para cambiar la altura de cada línea en un bloque de texto. Como sugiere el nombre, cambia la cantidad de espacio vertical que obtiene cada línea de texto.
+
+Agregue una propiedad de altura de línea a la etiqueta p y establézcala en 25px.

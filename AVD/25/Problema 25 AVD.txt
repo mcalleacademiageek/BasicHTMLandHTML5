@@ -1,0 +1,16 @@
+Applied Visual Design: Center an Element Horizontally Using the margin Property
+
+Another positioning technique is to center a block element horizontally. One way to do this is to set its margin to a value of auto.
+
+This method works for images, too. Images are inline elements by default, but can be changed to block elements when you set the display property to block.
+
+Center the div on the page by adding a margin property with a value of auto.
+
+
+Diseño visual aplicado: centre un elemento horizontalmente utilizando la propiedad margin
+
+Otra técnica de posicionamiento es centrar un elemento de bloque horizontalmente. Una forma de hacer esto es establecer su margen en un valor de auto.
+
+Este método también funciona con imágenes. Las imágenes son elementos en línea de forma predeterminada, pero se pueden cambiar para bloquear elementos cuando establece la propiedad de visualización en bloquear.
+
+Centre el div en la página agregando una propiedad de margen con un valor de auto.

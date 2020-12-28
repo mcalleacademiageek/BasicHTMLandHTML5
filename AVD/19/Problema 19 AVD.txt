@@ -1,0 +1,30 @@
+Applied Visual Design: Change an Element's Relative Position
+
+CSS treats each HTML element as its own box, which is usually referred to as the CSS Box Model. Block-level items automatically start on a new line (think headings, paragraphs, and divs) while inline items sit within surrounding content (like images or spans). The default layout of elements in this way is called the normal flow of a document, but CSS offers the position property to override it.
+
+When the position of an element is set to relative, it allows you to specify how CSS should move it relative to its current position in the normal flow of the page. It pairs with the CSS offset properties of left or right, and top or bottom. These say how many pixels, percentages, or ems to move the item away from where it is normally positioned. The following example moves the paragraph 10 pixels away from the bottom:
+
+p {
+  position: relative;
+  bottom: 10px;
+}
+
+Changing an element's position to relative does not remove it from the normal flow - other elements around it still behave as if that item were in its default position. Note: Positioning gives you a lot of flexibility and power over the visual layout of a page. It's good to remember that no matter the position of elements, the underlying HTML markup should be organized and make sense when read from top to bottom. This is how users with visual impairments (who rely on assistive devices like screen readers) access your content.
+
+Change the position of the h2 to relative, and use a CSS offset to move it 15 pixels away from the top of where it sits in the normal flow. Notice there is no impact on the positions of the surrounding h1 and p elements.
+
+
+Diseño visual aplicado: cambiar la posición relativa de un elemento
+
+CSS trata cada elemento HTML como su propia caja, que generalmente se denomina modelo de caja CSS. Los elementos a nivel de bloque comienzan automáticamente en una nueva línea (piense en encabezados, párrafos y divs) mientras que los elementos en línea se ubican dentro del contenido circundante (como imágenes o intervalos). El diseño predeterminado de los elementos de esta manera se denomina flujo normal de un documento, pero CSS ofrece la propiedad de posición para anularlo.
+
+Cuando la posición de un elemento se establece en relativa, le permite especificar cómo CSS debe moverlo en relación con su posición actual en el flujo normal de la página. Se empareja con las propiedades de desplazamiento de CSS de izquierda o derecha, y superior o inferior. Estos indican cuántos píxeles, porcentajes o ems deben alejar el elemento de donde se encuentra normalmente. El siguiente ejemplo aleja el párrafo 10 píxeles de la parte inferior:
+
+p {
+  position: relative;
+  bottom: 10px;
+}
+
+Cambiar la posición de un elemento a relativa no lo elimina del flujo normal; otros elementos a su alrededor aún se comportan como si ese elemento estuviera en su posición predeterminada. Nota: El posicionamiento le brinda mucha flexibilidad y poder sobre el diseño visual de una página. Es bueno recordar que no importa la posición de los elementos, el marcado HTML subyacente debe estar organizado y tener sentido cuando se lee de arriba a abajo. Así es como los usuarios con discapacidad visual (que dependen de dispositivos de asistencia como lectores de pantalla) acceden a su contenido.
+
+Cambie la posición del h2 a relativa y use un desplazamiento CSS para moverlo 15 píxeles lejos de la parte superior de donde se encuentra en el flujo normal. Observe que no hay impacto en las posiciones de los elementos h1 y p circundantes.
