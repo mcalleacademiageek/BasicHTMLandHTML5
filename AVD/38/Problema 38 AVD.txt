@@ -1,0 +1,24 @@
+Applied Visual Design: Create a Graphic Using CSS
+
+By manipulating different selectors and properties, you can make interesting shapes. One of the easier ones to try is a crescent moon shape. For this challenge you need to work with the box-shadow property that sets the shadow of an element, along with the border-radius property that controls the roundness of the element's corners.
+
+You will create a round, transparent object with a crisp shadow that is slightly offset to the side - the shadow is actually going to be the moon shape you see.
+
+In order to create a round object, the border-radius property should be set to a value of 50%.
+
+You may recall from an earlier challenge that the box-shadow property takes values for offset-x, offset-y, blur-radius, spread-radius and a color value in that order. The blur-radius and spread-radius values are optional.
+
+Manipulate the square element in the editor to create the moon shape. First, change the background-color to transparent, then set the border-radius property to 50% to make the circular shape. Finally, change the box-shadow property to set the offset-x to 25px, the offset-y to 10px, blur-radius to 0, spread-radius to 0, and color to blue.
+
+
+Diseño visual aplicado: cree un gráfico usando CSS
+
+Al manipular diferentes selectores y propiedades, puede crear formas interesantes. Uno de los más fáciles de probar es la forma de una luna creciente. Para este desafío, debe trabajar con la propiedad box-shadow que establece la sombra de un elemento, junto con la propiedad border-radius que controla la redondez de las esquinas del elemento.
+
+Creará un objeto redondo y transparente con una sombra nítida que está ligeramente desplazada hacia un lado; la sombra en realidad tendrá la forma de la luna que ve.
+
+Para crear un objeto redondo, la propiedad border-radius debe establecerse en un valor del 50%.
+
+Puede recordar de un desafío anterior que la propiedad box-shadow toma valores para offset-x, offset-y, blur-radius, spread-radius y un valor de color en ese orden. Los valores de radio de desenfoque y radio de extensión son opcionales.
+
+Manipule el elemento cuadrado en el editor para crear la forma de la luna. Primero, cambie el color de fondo a transparente, luego configure la propiedad border-radius al 50% para hacer la forma circular. Finalmente, cambie la propiedad box-shadow para establecer el offset-x en 25px, el offset-y en 10px, el radio de desenfoque en 0, el radio de extensión en 0 y el color en azul.

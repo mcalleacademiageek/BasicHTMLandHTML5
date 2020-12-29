@@ -1,0 +1,12 @@
+Applied Visual Design: Use the CSS Transform Property skewY to Skew an Element Along the Y-Axis
+
+Given that the skewX() function skews the selected element along the X-axis by a given degree, it is no surprise that the skewY() property skews an element along the Y (vertical) axis.
+
+Skew the element with the id of top -10 degrees along the Y-axis by using the transform property.
+
+
+Diseño visual aplicado: use la propiedad de transformación CSS skewY para sesgar un elemento a lo largo del eje Y
+
+Dado que la función skewX () sesga el elemento seleccionado a lo largo del eje X en un grado dado, no es de extrañar que la propiedad skewY () sesgue un elemento a lo largo del eje Y (vertical).
+
+Inclina el elemento con la identificación de -10 grados superiores a lo largo del eje Y utilizando la propiedad transform.

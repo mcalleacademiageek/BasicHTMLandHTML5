@@ -1,0 +1,12 @@
+Applied Visual Design: Create Texture by Adding a Subtle Pattern as a Background Image
+
+One way to add texture and interest to a background and have it stand out more is to add a subtle pattern. The key is balance, as you don't want the background to stand out too much, and take away from the foreground. The background property supports the url() function in order to link to an image of the chosen texture or pattern. The link address is wrapped in quotes inside the parentheses.
+
+Using the url of https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png, set the background of the whole page with the body selector.
+
+
+Diseño visual aplicado: cree textura agregando un patrón sutil como imagen de fondo
+
+Una forma de agregar textura e interés a un fondo y hacer que se destaque más es agregar un patrón sutil. La clave es el equilibrio, ya que no desea que el fondo se destaque demasiado y se aleje del primer plano. La propiedad background admite la función url () para enlazar a una imagen de la textura o patrón elegido. La dirección del enlace está entre comillas y entre paréntesis.
+
+Usando la URL de https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png, configure el fondo de toda la página con el selector de cuerpo.

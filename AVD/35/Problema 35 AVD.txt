@@ -1,0 +1,28 @@
+Applied Visual Design: Use the CSS Transform scale Property to Scale an Element on Hover
+
+The transform property has a variety of functions that let you scale, move, rotate, skew, etc., your elements. When used with pseudo-classes such as :hover that specify a certain state of an element, the transform property can easily add interactivity to your elements.
+
+Here's an example to scale the paragraph elements to 2.1 times their original size when a user hovers over them:
+
+p:hover {
+  transform: scale(2.1);
+}
+
+Note: Applying a transform to a div element will also affect any child elements contained in the div.
+
+Add a CSS rule for the hover state of the div and use the transform property to scale the div element to 1.1 times its original size when a user hovers over it.
+
+
+Diseño visual aplicado: use la propiedad de escala de transformación CSS para escalar un elemento al pasar el mouse
+
+La propiedad de transformación tiene una variedad de funciones que le permiten escalar, mover, rotar, sesgar, etc., sus elementos. Cuando se usa con pseudoclases como: hover que especifican un cierto estado de un elemento, la propiedad transform puede agregar interactividad fácilmente a sus elementos.
+
+A continuación, se muestra un ejemplo para escalar los elementos de párrafo a 2,1 veces su tamaño original cuando un usuario pasa el cursor sobre ellos:
+
+p:hover {
+  transform: scale(2.1);
+}
+
+Nota: La aplicación de una transformación a un elemento div también afectará a los elementos secundarios contenidos en div.
+
+Agregue una regla CSS para el estado de desplazamiento del div y use la propiedad transform para escalar el elemento div a 1,1 veces su tamaño original cuando un usuario pasa el mouse sobre él.

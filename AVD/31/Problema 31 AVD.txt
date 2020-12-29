@@ -1,0 +1,28 @@
+Applied Visual Design: Create a Gradual CSS Linear Gradient
+
+Applying a color on HTML elements is not limited to one flat hue. CSS provides the ability to use color transitions, otherwise known as gradients, on elements. This is accessed through the background property's linear-gradient() function. Here is the general syntax:
+
+background: linear-gradient(gradient_direction, color 1, color 2, color 3, ...);
+
+The first argument specifies the direction from which color transition starts - it can be stated as a degree, where 90deg makes a horizontal gradient (from left to right) and 45deg makes a diagonal gradient (from bottom left to top right). The following arguments specify the order of colors used in the gradient.
+
+Example:
+
+background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+
+Use a linear-gradient() for the div element's background, and set it from a direction of 35 degrees to change the color from #CCFFFF to #FFCCCC.
+
+
+Diseño visual aplicado: cree un degradado lineal CSS gradual
+
+La aplicación de un color en elementos HTML no se limita a un tono plano. CSS proporciona la capacidad de utilizar transiciones de color, también conocidas como degradados, en elementos. Se accede a esto a través de la función linear-gradient () de la propiedad de fondo. Aquí está la sintaxis general:
+
+background: linear-gradient (gradient_direction, color 1, color 2, color 3, ...);
+
+El primer argumento especifica la dirección desde la que comienza la transición de color; se puede indicar como un grado, donde 90 grados hace un degradado horizontal (de izquierda a derecha) y 45 grados hace un degradado diagonal (de abajo a la izquierda a arriba a la derecha). Los siguientes argumentos especifican el orden de los colores utilizados en el degradado.
+
+Ejemplo:
+
+background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+
+Use un degradado lineal () para el fondo del elemento div y configúrelo en una dirección de 35 grados para cambiar el color de #CCFFFF a #FFCCCC.
