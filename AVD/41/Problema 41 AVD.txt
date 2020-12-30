@@ -1,0 +1,50 @@
+Applied Visual Design: Use CSS Animation to Change the Hover State of a Button
+
+You can use CSS @keyframes to change the color of a button in its hover state.
+
+Here's an example of changing the width of an image on hover:
+
+<style>
+  img:hover {
+    animation-name: width;
+    animation-duration: 500ms;
+  }
+
+  @keyframes width {
+    100% {
+      width: 40px;
+    }
+  }
+</style>
+
+<img src="https://bit.ly/smallgooglelogo" alt="Google's Logo" />
+
+Note that ms stands for milliseconds, where 1000ms is equal to 1s.
+
+Use CSS @keyframes to change the background-color of the button element so it becomes #4791d0 when a user hovers over it. The @keyframes rule should only have an entry for 100%.
+
+
+Diseño visual aplicado: use la animación CSS para cambiar el estado de desplazamiento de un botón
+
+Puede usar CSS @keyframes para cambiar el color de un botón en su estado de desplazamiento.
+
+Aquí hay un ejemplo de cómo cambiar el ancho de una imagen al pasar el mouse:
+
+<style>
+  img:hover {
+    animation-name: width;
+    animation-duration: 500ms;
+  }
+
+  @keyframes width {
+    100% {
+      width: 40px;
+    }
+  }
+</style>
+
+<img src = "https://bit.ly/smallgooglelogo" alt = "Logotipo de Google" />
+
+Tenga en cuenta que ms significa milisegundos, donde 1000 ms es igual a 1 s.
+
+Use CSS @keyframes para cambiar el color de fondo del elemento del botón para que se convierta en # 4791d0 cuando un usuario pase el mouse sobre él. La regla @keyframes solo debe tener una entrada para 100%.

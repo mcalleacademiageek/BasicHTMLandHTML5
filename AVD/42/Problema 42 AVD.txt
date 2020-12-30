@@ -1,0 +1,20 @@
+Applied Visual Design: Modify Fill Mode of an Animation
+
+That's great, but it doesn't work right yet. Notice how the animation resets after 500ms has passed, causing the button to revert back to the original color. You want the button to stay highlighted.
+
+This can be done by setting the animation-fill-mode property to forwards. The animation-fill-mode specifies the style applied to an element when the animation has finished. You can set it like so:
+
+animation-fill-mode: forwards;
+
+Set the animation-fill-mode property of button:hover to forwards so the button stays highlighted when a user hovers over it.
+
+
+Diseño visual aplicado: modificar el modo de relleno de una animación
+
+Eso es genial, pero aún no funciona bien. Observe cómo la animación se restablece después de que han pasado 500 ms, lo que hace que el botón vuelva al color original. Quieres que el botón permanezca resaltado.
+
+Esto se puede hacer estableciendo la propiedad animation-fill-mode en forwards. El modo de relleno de animación especifica el estilo que se aplica a un elemento cuando la animación ha terminado. Puede configurarlo así:
+
+animation-fill-mode: forwards;
+
+Establezca la propiedad animation-fill-mode de button: hover hacia adelante para que el botón permanezca resaltado cuando un usuario pasa el mouse sobre él.

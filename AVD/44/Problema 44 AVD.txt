@@ -1,0 +1,16 @@
+Applied Visual Design: Create Visual Direction by Fading an Element from Left to Right
+
+For this challenge, you'll change the opacity of an animated element so it gradually fades as it reaches the right side of the screen.
+
+In the displayed animation, the round element with the gradient background moves to the right by the 50% mark of the animation per the @keyframes rule.
+
+Target the element with the id of ball and add the opacity property set to 0.1 at 50%, so the element fades as it moves to the right.
+
+
+Diseño visual aplicado: cree una dirección visual desvaneciendo un elemento de izquierda a derecha
+
+Para este desafío, cambiará la opacidad de un elemento animado para que se desvanezca gradualmente a medida que llega al lado derecho de la pantalla.
+
+En la animación mostrada, el elemento redondo con el fondo degradado se mueve hacia la derecha en la marca del 50% de la animación según la regla @keyframes.
+
+Apunte al elemento con la identificación de bola y agregue la propiedad de opacidad establecida en 0.1 al 50%, para que el elemento se desvanezca a medida que se mueve hacia la derecha.
