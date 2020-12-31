@@ -1,0 +1,11 @@
+Diseño visual aplicado: animar elementos continuamente usando un conteo de animación infinito
+
+Los desafíos anteriores cubrieron cómo usar algunas de las propiedades de animación y la regla @keyframes. Otra propiedad de animación es animation-iteration-count, que le permite controlar cuántas veces le gustaría recorrer la animación. He aquí un ejemplo:
+
+animation-iteration-count: 3;
+
+En este caso, la animación se detendrá después de ejecutarse 3 veces, pero es posible hacer que la animación se ejecute de forma continua estableciendo ese valor en infinito.
+
+Para mantener la pelota rebotando a la derecha en un bucle continuo, cambie la propiedad animation-iteration-count a infinite.
+
+

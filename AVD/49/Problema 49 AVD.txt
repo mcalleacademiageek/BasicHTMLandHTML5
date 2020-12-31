@@ -1,0 +1,16 @@
+Applied Visual Design: Change Animation Timing with Keywords
+
+In CSS animations, the animation-timing-function property controls how quickly an animated element changes over the duration of the animation. If the animation is a car moving from point A to point B in a given time (your animation-duration), the animation-timing-function says how the car accelerates and decelerates over the course of the drive.
+
+There are a number of predefined keywords available for popular options. For example, the default value is ease, which starts slow, speeds up in the middle, and then slows down again in the end. Other options include ease-out, which is quick in the beginning then slows down, ease-in, which is slow in the beginning, then speeds up at the end, or linear, which applies a constant animation speed throughout.
+
+For the elements with id of ball1 and ball2, add an animation-timing-function property to each, and set #ball1 to linear, and #ball2 to ease-out. Notice the difference between how the elements move during the animation but end together, since they share the same animation-duration of 2 seconds.
+
+
+Diseño visual aplicado: cambie el tiempo de animación con palabras clave
+
+En las animaciones CSS, la propiedad animation-timing-function controla la rapidez con la que cambia un elemento animado durante la duración de la animación. Si la animación es un automóvil que se mueve del punto A al punto B en un tiempo determinado (la duración de la animación), la función de tiempo de animación indica cómo acelera y desacelera el automóvil en el transcurso del viaje.
+
+Hay una serie de palabras clave predefinidas disponibles para opciones populares. Por ejemplo, el valor predeterminado es facilidad, que comienza lento, se acelera en el medio y luego vuelve a disminuir al final. Otras opciones incluyen la salida fácil, que es rápida al principio y luego se ralentiza, la entrada fácil, que es lenta al principio y luego se acelera al final, o lineal, que aplica una velocidad de animación constante en todo momento.
+
+Para los elementos con id de ball1 y ball2, agregue una propiedad de función de tiempo de animación a cada uno y establezca # ball1 en lineal y # ball2 en salida fácil. Observe la diferencia entre cómo se mueven los elementos durante la animación pero terminan juntos, ya que comparten la misma duración de animación de 2 segundos.

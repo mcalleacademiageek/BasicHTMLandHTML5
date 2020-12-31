@@ -1,0 +1,16 @@
+Applied Visual Design: Animate Elements at Variable Rates
+
+There are a variety of ways to alter the animation rates of similarly animated elements. So far, this has been achieved by applying an animation-iteration-count property and setting @keyframes rules.
+
+To illustrate, the animation on the right consists of two "stars" that each decrease in size and opacity at the 20% mark in the @keyframes rule, which creates the twinkle animation. You can change the @keyframes rule for one of the elements so the stars twinkle at different rates.
+
+Alter the animation rate for the element with the class name of star-1 by changing its @keyframes rule to 50%.
+
+
+Diseño visual aplicado: elementos animados a velocidades variables
+
+Hay una variedad de formas de alterar las tasas de animación de elementos animados de manera similar. Hasta ahora, esto se ha logrado aplicando una propiedad animation-iteration-count y estableciendo reglas de @keyframes.
+
+A modo de ilustración, la animación de la derecha consta de dos "estrellas", cada una de las cuales disminuye en tamaño y opacidad en la marca del 20% en la regla @keyframes, que crea la animación centelleante. Puede cambiar la regla @keyframes para uno de los elementos para que las estrellas brillen a diferentes velocidades.
+
+Altere la tasa de animación para el elemento con el nombre de clase de estrella-1 cambiando su regla @keyframes al 50%.

@@ -1,0 +1,16 @@
+Applied Visual Design: Make a CSS Heartbeat using an Infinite Animation Count
+
+Here's one more continuous animation example with the animation-iteration-count property that uses the heart you designed in a previous challenge.
+
+The one-second long heartbeat animation consists of two animated pieces. The heart elements (including the :before and :after pieces) are animated to change size using the transform property, and the background div is animated to change its color using the background property.
+
+Keep the heart beating by adding the animation-iteration-count property for both the back class and the heart class and setting the value to infinite. The heart:before and heart:after selectors do not need any animation properties.
+
+
+Diseño visual aplicado: crea un latido de CSS usando un recuento de animación infinito
+
+Aquí hay un ejemplo de animación continua más con la propiedad animation-iteration-count que usa el corazón que diseñó en un desafío anterior.
+
+La animación de latido del corazón de un segundo de duración consta de dos piezas animadas. Los elementos del corazón (incluidas las piezas: before y: after) se animan para cambiar de tamaño usando la propiedad transform, y el div de fondo se anima para cambiar su color usando la propiedad background.
+
+Mantenga el corazón latiendo agregando la propiedad animation-iteration-count tanto para la clase trasera como para la clase heart y estableciendo el valor en infinito. Los selectores de corazón: antes y corazón: después no necesitan propiedades de animación.
