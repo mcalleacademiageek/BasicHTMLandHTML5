@@ -1,0 +1,27 @@
+Responsive Web Design Principles: Make an Image Responsive
+
+Making images responsive with CSS is actually very simple. You just need to add these properties to an image:
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+The max-width of 100% will make sure the image is never wider than the container it is in, and the height of auto will make the image keep its original aspect ratio.
+
+Add the style rules to the responsive-img class to make it responsive. It should never be wider than its container (in this case, it's the preview window) and it should keep its original aspect ratio. After you have added your code, resize the preview to see how your images behave.
+
+
+Principios de diseño web receptivo: hacer que una imagen sea receptiva
+
+Hacer que las imágenes respondan con CSS es realmente muy simple. Solo necesita agregar estas propiedades a una imagen:
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+El ancho máximo del 100% asegurará que la imagen nunca sea más ancha que el contenedor en el que se encuentra, y la altura de automático hará que la imagen mantenga su relación de aspecto original.
+
+Agregue las reglas de estilo a la clase responsive-img para que responda. Nunca debe ser más ancho que su contenedor (en este caso, es la ventana de vista previa) y debe mantener su relación de aspecto original. Después de haber agregado su código, cambie el tamaño de la vista previa para ver cómo se comportan sus imágenes.
+

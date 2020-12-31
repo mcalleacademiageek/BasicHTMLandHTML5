@@ -1,0 +1,34 @@
+Responsive Web Design Principles: Make Typography Responsive
+
+Instead of using em or px to size text, you can use viewport units for responsive typography. Viewport units, like percentages, are relative units, but they are based off different items. Viewport units are relative to the viewport dimensions (width or height) of a device, and percentages are relative to the size of the parent container element.
+
+The four different viewport units are:
+
+    vw (viewport width): 10vw would be 10% of the viewport's width.
+    vh (viewport height): 3vh would be 3% of the viewport's height.
+    vmin (viewport minimum): 70vmin would be 70% of the viewport's smaller dimension (height or width).
+    vmax (viewport maximum): 100vmax would be 100% of the viewport's bigger dimension (height or width).
+
+Here is an example that sets a body tag to 30% of the viewport's width.
+
+body { width: 30vw; }
+
+Set the width of the h2 tag to 80% of the viewport's width and the width of the paragraph as 75% of the viewport's smaller dimension.
+
+
+Principios de diseño web receptivo: hacer que la tipografía sea receptiva
+
+En lugar de usar em o px para ajustar el tamaño del texto, puede usar unidades de ventana gráfica para una tipografía receptiva. Las unidades de ventana gráfica, como los porcentajes, son unidades relativas, pero se basan en elementos diferentes. Las unidades de la ventana gráfica son relativas a las dimensiones de la ventana gráfica (ancho o alto) de un dispositivo, y los porcentajes son relativos al tamaño del elemento contenedor principal.
+
+Las cuatro unidades de ventana gráfica diferentes son:
+
+    vw (ancho de la ventana gráfica): 10vw sería el 10% del ancho de la ventana gráfica.
+    vh (altura de la ventana gráfica): 3vh sería el 3% de la altura de la ventana gráfica.
+    vmin (ventana gráfica mínima): 70 vmin sería el 70% de la dimensión más pequeña de la ventana gráfica (alto o ancho).
+    vmax (ventana gráfica máxima): 100vmax sería el 100% de la dimensión más grande de la ventana gráfica (alto o ancho).
+
+Aquí hay un ejemplo que establece una etiqueta de cuerpo al 30% del ancho de la ventana gráfica.
+
+body { width: 30vw; }
+
+Establezca el ancho de la etiqueta h2 en el 80% del ancho de la ventana gráfica y el ancho del párrafo como el 75% de la dimensión más pequeña de la ventana gráfica.

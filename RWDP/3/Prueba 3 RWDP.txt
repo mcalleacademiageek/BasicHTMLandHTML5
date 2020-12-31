@@ -1,0 +1,24 @@
+Responsive Web Design Principles: Use a Retina Image for Higher Resolution Displays
+
+With the increase of internet connected devices, their sizes and specifications vary, and the displays they use could be different externally and internally. Pixel density is an aspect that could be different on one device from others and this density is known as Pixel Per Inch(PPI) or Dots Per Inch(DPI). The most famous such display is the one known as a "Retina Display" on the latest Apple MacBook Pro notebooks, and recently iMac computers. Due to the difference in pixel density between a "Retina" and "Non-Retina" displays, some images that have not been made with a High-Resolution Display in mind could look "pixelated" when rendered on a High-Resolution display.
+
+The simplest way to make your images properly appear on High-Resolution Displays, such as the MacBook Pros "retina display" is to define their width and height values as only half of what the original file is. Here is an example of an image that is only using half of the original height and width:
+
+<style>
+  img { height: 250px; width: 250px; }
+</style>
+<img src="coolPic500x500" alt="A most excellent picture">
+
+
+Principios de diseño web receptivo: utilice una imagen Retina para pantallas de mayor resolución
+
+Con el aumento de los dispositivos conectados a Internet, sus tamaños y especificaciones varían, y las pantallas que utilizan podrían ser diferentes externa e internamente. La densidad de píxeles es un aspecto que podría ser diferente en un dispositivo de otros y esta densidad se conoce como píxeles por pulgada (PPI) o puntos por pulgada (DPI). La pantalla más famosa de este tipo es la conocida como "Pantalla Retina" en las últimas computadoras portátiles Apple MacBook Pro y, recientemente, en las computadoras iMac. Debido a la diferencia en la densidad de píxeles entre las pantallas "Retina" y "No Retina", algunas imágenes que no se han creado con una pantalla de alta resolución en mente pueden verse "pixeladas" cuando se procesan en una pantalla de alta resolución.
+
+La forma más sencilla de hacer que sus imágenes aparezcan correctamente en pantallas de alta resolución, como la "pantalla retina" de MacBook Pro, es definir sus valores de ancho y alto como solo la mitad de lo que es el archivo original. Aquí hay un ejemplo de una imagen que solo usa la mitad de la altura y el ancho originales:
+
+<style>
+  img { height: 250px; width: 250px; }
+</style>
+<img src="coolPic500x500" alt="A most excellent picture">
+
+Establezca el ancho y el alto de la etiqueta img a la mitad de sus valores originales. En este caso, tanto la altura original como el ancho original son 200px.
