@@ -1,0 +1,14 @@
+Introduction to the CSS Flexbox Challenges
+
+A website's User Interface ("UI") has two components. First, there are the visual elements, such as colors, fonts, and images. Second, there is the placement or positioning of those elements. In Responsive Web Design, a UI layout must accommodate many different browsers and devices accessing the content.
+
+CSS3 introduced Flexible Boxes, or flexbox, to create page layouts for a dynamic UI. It is a layout mode that arranges elements in a predictable way for different screen sizes and browsers. While somewhat new, all popular modern browsers support flexbox. This section covers how to use flexbox and the different layout options it offers.
+
+
+Introducción a los desafíos de CSS Flexbox
+
+La interfaz de usuario de un sitio web ("UI") tiene dos componentes. Primero, están los elementos visuales, como colores, fuentes e imágenes. En segundo lugar, está la ubicación o el posicionamiento de esos elementos. En Responsive Web Design, un diseño de interfaz de usuario debe adaptarse a muchos navegadores y dispositivos diferentes que acceden al contenido.
+
+CSS3 introdujo las cajas flexibles, o flexbox, para crear diseños de página para una interfaz de usuario dinámica. Es un modo de diseño que organiza los elementos de una manera predecible para diferentes tamaños de pantalla y navegadores. Si bien es algo nuevo, todos los navegadores modernos populares admiten flexbox. Esta sección cubre cómo usar flexbox y las diferentes opciones de diseño que ofrece.
+
+
