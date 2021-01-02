@@ -1,0 +1,17 @@
+CSS Flexbox: Use the align-self Property
+
+The final property for flex items is align-self. This property allows you to adjust each item's alignment individually, instead of setting them all at once. This is useful since other common adjustment techniques using the CSS properties float, clear, and vertical-align do not work on flex items.
+
+align-self accepts the same values as align-items and will override any value set by the align-items property.
+
+Add the CSS property align-self to both #box-1 and #box-2. Give #box-1 a value of center and give #box-2 a value of flex-end.
+
+
+CSS Flexbox: use la propiedad align-self
+
+La propiedad final de los elementos flexibles es align-self. Esta propiedad le permite ajustar la alineación de cada elemento individualmente, en lugar de configurarlos todos a la vez. Esto es útil ya que otras técnicas de ajuste comunes que utilizan las propiedades CSS flotante, claro y alineación vertical no funcionan en elementos flexibles.
+
+align-self acepta los mismos valores que align-items y anulará cualquier valor establecido por la propiedad align-items.
+
+Agregue la propiedad de CSS align-self tanto en # box-1 como en # box-2. Dale a # box-1 un valor de center y dale a # box-2 un valor de flex-end.
+

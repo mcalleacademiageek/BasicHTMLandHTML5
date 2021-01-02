@@ -1,0 +1,21 @@
+CSS Flexbox: Use the flex-shrink Property to Shrink Items
+
+So far, all the properties in the challenges apply to the flex container (the parent of the flex items). However, there are several useful properties for the flex items.
+
+The first is the flex-shrink property. When it's used, it allows an item to shrink if the flex container is too small. Items shrink when the width of the parent container is smaller than the combined widths of all the flex items within it.
+
+The flex-shrink property takes numbers as values. The higher the number, the more it will shrink compared to the other items in the container. For example, if one item has a flex-shrink value of 1 and the other has a flex-shrink value of 3, the one with the value of 3 will shrink three times as much as the other.
+
+Add the CSS property flex-shrink to both #box-1 and #box-2. Give #box-1 a value of 1 and #box-2 a value of 2.
+
+
+CSS Flexbox: use la propiedad flex-shrink para encoger elementos
+
+Hasta ahora, todas las propiedades de los desafíos se aplican al contenedor flexible (el padre de los elementos flexibles). Sin embargo, hay varias propiedades útiles para los elementos flexibles.
+
+La primera es la propiedad flex-shrink. Cuando se usa, permite que un artículo se encoja si el contenedor flexible es demasiado pequeño. Los elementos se encogen cuando el ancho del contenedor principal es menor que los anchos combinados de todos los elementos flexibles que contiene.
+
+La propiedad flex-shrink toma números como valores. Cuanto mayor sea el número, más se encogerá en comparación con los otros elementos del contenedor. Por ejemplo, si un elemento tiene un valor de contracción flexible de 1 y el otro tiene un valor de contracción flexible de 3, el que tenga el valor de 3 se contraerá tres veces más que el otro.
+
+Agregue la propiedad CSS flex-shrink a # box-1 y # box-2. Asigne a # caja-1 un valor de 1 y a # caja-2 un valor de 2.
+

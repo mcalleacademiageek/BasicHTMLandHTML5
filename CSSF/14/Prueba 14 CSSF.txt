@@ -1,0 +1,16 @@
+CSS Flexbox: Use the flex-basis Property to Set the Initial Size of an Item
+
+The flex-basis property specifies the initial size of the item before CSS makes adjustments with flex-shrink or flex-grow.
+
+The units used by the flex-basis property are the same as other size properties (px, em, %, etc.). The value auto sizes items based on the content.
+
+Set the initial size of the boxes using flex-basis. Add the CSS property flex-basis to both #box-1 and #box-2. Give #box-1 a value of 10em and #box-2 a value of 20em.
+
+
+CSS Flexbox: use la propiedad de flex-basis para establecer el tamaño inicial de un elemento
+
+La propiedad de flex-basis especifica el tamaño inicial del elemento antes de que CSS realice ajustes con flex-shrink o flex-grow.
+
+Las unidades utilizadas por la propiedad de flex-basis son las mismas que las de otras propiedades de tamaño (px, em,%, etc.). El valor ajusta automáticamente los tamaños de los elementos según el contenido.
+
+Establezca el tamaño inicial de las cajas usando la base flexible. Agregue la propiedad CSS de flex-basis a # box-1 y # box-2. Asigne a # box-1 un valor de 10em y a # box-2 un valor de 20em.

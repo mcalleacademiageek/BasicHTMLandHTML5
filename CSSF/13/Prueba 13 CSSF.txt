@@ -1,0 +1,16 @@
+CSS Flexbox: Use the flex-grow Property to Expand Items
+
+The opposite of flex-shrink is the flex-grow property. Recall that flex-shrink controls the size of the items when the container shrinks. The flex-grow property controls the size of items when the parent container expands.
+
+Using a similar example from the last challenge, if one item has a flex-grow value of 1 and the other has a flex-grow value of 3, the one with the value of 3 will grow three times as much as the other.
+
+Add the CSS property flex-grow to both #box-1 and #box-2. Give #box-1 a value of 1 and #box-2 a value of 2.
+
+
+CSS Flexbox: use la propiedad flex-grow para expandir elementos
+
+Lo opuesto a flex-shrink es la propiedad flex-grow. Recuerde que flex-shrink controla el tamaño de los artículos cuando el contenedor se encoge. La propiedad flex-grow controla el tamaño de los elementos cuando se expande el contenedor principal.
+
+Usando un ejemplo similar del último desafío, si un elemento tiene un valor de crecimiento flexible de 1 y el otro tiene un valor de crecimiento flexible de 3, el que tiene el valor de 3 crecerá tres veces más que el otro.
+
+Agregue la propiedad CSS flex-grow a # box-1 y # box-2. Asigne a # caja-1 un valor de 1 y a # caja-2 un valor de 2.

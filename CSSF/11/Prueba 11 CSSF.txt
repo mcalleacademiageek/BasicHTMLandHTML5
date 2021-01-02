@@ -1,0 +1,29 @@
+CSS Flexbox: Use the flex-wrap Property to Wrap a Row or Column
+
+CSS flexbox has a feature to split a flex item into multiple rows (or columns). By default, a flex container will fit all flex items together. For example, a row will all be on one line.
+
+However, using the flex-wrap property tells CSS to wrap items. This means extra items move into a new row or column. The break point of where the wrapping happens depends on the size of the items and the size of the container.
+
+CSS also has options for the direction of the wrap:
+
+    nowrap: this is the default setting, and does not wrap items.
+    wrap: wraps items from left-to-right if they are in a row, or top-to-bottom if they are in a column.
+    wrap-reverse: wraps items from right-to-left if they are in a row, or bottom-to-top if they are in a column.
+
+The current layout has too many boxes for one row. Add the CSS property flex-wrap to the #box-container element, and give it a value of wrap.
+
+
+CSS Flexbox: use la propiedad flex-wrap para envolver una fila o columna
+
+CSS flexbox tiene una función para dividir un elemento flexible en varias filas (o columnas). De forma predeterminada, un contenedor flexible encajará todos los elementos flexibles juntos. Por ejemplo, una fila estará en una sola línea.
+
+Sin embargo, el uso de la propiedad flex-wrap le dice a CSS que ajuste los elementos. Esto significa que los elementos adicionales se mueven a una nueva fila o columna. El punto de ruptura del lugar donde se envuelve depende del tamaño de los artículos y del tamaño del contenedor.
+
+CSS también tiene opciones para la dirección de la envoltura:
+
+     nowrap: esta es la configuración predeterminada y no envuelve elementos.
+     wrap: envuelve los elementos de izquierda a derecha si están en una fila, o de arriba hacia abajo si están en una columna.
+     wrap-reverse: envuelve los elementos de derecha a izquierda si están en una fila, o de abajo hacia arriba si están en una columna.
+
+El diseño actual tiene demasiados cuadros para una fila. Agrega la propiedad CSS flex-wrap al elemento # box-container y dale un valor de wrap.
+
