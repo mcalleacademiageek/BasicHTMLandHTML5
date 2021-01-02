@@ -1,0 +1,16 @@
+CSS Flexbox: Add Flex Superpowers to the Tweet Embed
+
+To the right is the tweet embed that will be used as the practical example. Some of the elements would look better with a different layout. The last challenge demonstrated display: flex. Here you'll add it to several components in the tweet embed to start adjusting their positioning.
+
+Add the CSS property display: flex to all of the following items - note that the selectors are already set up in the CSS:
+
+header, the header's .profile-name, the header's .follow-btn, the header's h3 and h4, the footer, and the footer's .stats.
+
+
+CSS Flexbox: agregue Flex Superpowers al Tweet Embed
+
+A la derecha está el tweet incrustado que se utilizará como ejemplo práctico. Algunos de los elementos se verían mejor con un diseño diferente. El último desafío demostrado en pantalla: flex. Aquí lo agregará a varios componentes en el tweet incrustado para comenzar a ajustar su posición.
+
+Agregue la visualización de propiedades CSS: flex a todos los siguientes elementos; tenga en cuenta que los selectores ya están configurados en el CSS:
+
+header, el .profile-name del encabezado, el .follow-btn del encabezado, el h3 y h4 del encabezado, el pie de página y el .stats del pie de página.

@@ -1,0 +1,42 @@
+CSS Flexbox: Align Elements Using the justify-content Property
+
+Sometimes the flex items within a flex container do not fill all the space in the container. It is common to want to tell CSS how to align and space out the flex items a certain way. Fortunately, the justify-content property has several options to do this. But first, there is some important terminology to understand before reviewing those options.
+
+Here is a useful image showing a row to illustrate the concepts below.
+
+Recall that setting a flex container as a row places the flex items side-by-side from left-to-right. A flex container set as a column places the flex items in a vertical stack from top-to-bottom. For each, the direction the flex items are arranged is called the main axis. For a row, this is a horizontal line that cuts through each item. And for a column, the main axis is a vertical line through the items.
+
+There are several options for how to space the flex items along the line that is the main axis. One of the most commonly used is justify-content: center;, which aligns all the flex items to the center inside the flex container. Others options include:
+
+    flex-start: aligns items to the start of the flex container. For a row, this pushes the items to the left of the container. For a column, this pushes the items to the top of the container. This is the default alignment if no justify-content is specified.
+    flex-end: aligns items to the end of the flex container. For a row, this pushes the items to the right of the container. For a column, this pushes the items to the bottom of the container.
+    space-between: aligns items to the center of the main axis, with extra space placed between the items. The first and last items are pushed to the very edge of the flex container. For example, in a row the first item is against the left side of the container, the last item is against the right side of the container, then the remaining space is distributed evenly among the other items.
+    space-around: similar to space-between but the first and last items are not locked to the edges of the container, the space is distributed around all the items with a half space on either end of the flex container.
+    space-evenly: Distributes space evenly between the flex items with a full space at either end of the flex container
+
+An example helps show this property in action. Add the CSS property justify-content to the #box-container element, and give it a value of center.
+
+Bonus
+Try the other options for the justify-content property in the code editor to see their differences. But note that a value of center is the only one that will pass this challenge.
+
+
+CSS Flexbox: alinear elementos usando la propiedad justify-content
+
+A veces, los elementos flexibles dentro de un contenedor flexible no llenan todo el espacio del contenedor. Es común querer decirle a CSS cómo alinear y espaciar los elementos flexibles de cierta manera. Afortunadamente, la propiedad justify-content tiene varias opciones para hacer esto. Pero primero, hay una terminología importante que debe comprender antes de revisar esas opciones.
+
+Aquí hay una imagen útil que muestra una fila para ilustrar los conceptos siguientes.
+
+Recuerde que configurar un contenedor flexible como una fila coloca los elementos flexibles uno al lado del otro de izquierda a derecha. Un contenedor flexible configurado como columna coloca los elementos flexibles en una pila vertical de arriba a abajo. Para cada uno, la dirección en la que están dispuestos los elementos flexibles se denomina eje principal. Para una fila, esta es una línea horizontal que atraviesa cada elemento. Y para una columna, el eje principal es una línea vertical que atraviesa los elementos.
+
+Hay varias opciones sobre cómo espaciar los elementos flexibles a lo largo de la línea que es el eje principal. Uno de los más utilizados es justify-content: center ;, que alinea todos los elementos flexibles con el centro dentro del contenedor flexible. Otras opciones incluyen:
+
+    flex-start: alinea los elementos al inicio del contenedor flexible. Para una fila, esto empuja los artículos a la izquierda del contenedor. Para una columna, esto empuja los artículos a la parte superior del contenedor. Esta es la alineación predeterminada si no se especifica ningún contenido de justificación.
+    flex-end: alinea los elementos al final del contenedor flexible. Para una fila, esto empuja los elementos a la derecha del contenedor. Para una columna, esto empuja los artículos al fondo del contenedor.
+    space-between: alinea los elementos con el centro del eje principal, con espacio adicional entre los elementos. Los primeros y últimos elementos se empujan hasta el borde del contenedor flexible. Por ejemplo, en una fila, el primer artículo está contra el lado izquierdo del contenedor, el último artículo está contra el lado derecho del contenedor, luego el espacio restante se distribuye uniformemente entre los otros artículos.
+    space-around: similar al space-between, pero el primer y último elemento no están bloqueados en los bordes del contenedor, el espacio se distribuye alrededor de todos los elementos con medio espacio en cada extremo del contenedor flexible.
+    space-evenly: distribuye el espacio uniformemente entre los elementos flexibles con un espacio completo en cada extremo del contenedor flexible
+
+Un ejemplo ayuda a mostrar esta propiedad en acción. Agregue la propiedad CSS justify-content al elemento # box-container y asígnele un valor de center.
+
+Nota
+Pruebe las otras opciones para la propiedad justify-content en el editor de código para ver sus diferencias. Pero tenga en cuenta que un valor de centro es el único que pasará este desafío.

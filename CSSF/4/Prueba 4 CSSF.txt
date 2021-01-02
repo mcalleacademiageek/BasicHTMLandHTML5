@@ -1,0 +1,19 @@
+freeCodeCamp.org
+
+    Forum
+    Curriculum
+    Profile
+    mcallegeek's avatar
+
+CSS Flexbox: Apply the flex-direction Property to Create Rows in the Tweet Embed
+
+The header and footer in the tweet embed example have child items that could be arranged as rows using the flex-direction property. This tells CSS to align the children horizontally.
+
+Add the CSS property flex-direction to both the header and footer and set the value to row.
+
+
+CSS Flexbox: aplique la propiedad de dirección flexible para crear filas en el Tweet incrustado
+
+El encabezado y el pie de página en el ejemplo de inserción de tweets tienen elementos secundarios que podrían organizarse como filas utilizando la propiedad flex-direction. Esto le dice a CSS que alinee a los niños horizontalmente.
+
+Agregue la propiedad CSS flex-direction tanto al encabezado como al pie de página y establezca el valor en fila.

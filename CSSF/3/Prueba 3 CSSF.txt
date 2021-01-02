@@ -1,0 +1,20 @@
+CSS Flexbox: Use the flex-direction Property to Make a Row
+
+Adding display: flex to an element turns it into a flex container. This makes it possible to align any children of that element into rows or columns. You do this by adding the flex-direction property to the parent item and setting it to row or column. Creating a row will align the children horizontally, and creating a column will align the children vertically.
+
+Other options for flex-direction are row-reverse and column-reverse.
+
+Note: The default value for the flex-direction property is row.
+
+Add the CSS property flex-direction to the #box-container element, and give it a value of row-reverse.
+
+
+CSS Flexbox: use la propiedad flex-direction para hacer una fila
+
+Agregar display: flex a un elemento lo convierte en un contenedor flexible. Esto hace posible alinear cualquier hijo de ese elemento en filas o columnas. Puede hacer esto agregando la propiedad flex-direction al elemento principal y configurándolo en fila o columna. La creación de una fila alineará a los niños horizontalmente y la creación de una columna alineará a los niños verticalmente.
+
+Otras opciones para la dirección flexible son reversa de fila y reversa de columna.
+
+Nota: El valor predeterminado de la propiedad flex-direction es row.
+
+Agregue la propiedad CSS flex-direction al elemento # box-container y asígnele un valor de row-reverse.
