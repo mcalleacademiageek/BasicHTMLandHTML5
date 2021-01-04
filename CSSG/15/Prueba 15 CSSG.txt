@@ -1,0 +1,24 @@
+CSS Grid: Place Items in Grid Areas Using the grid-area Property
+
+After creating an area's template for your grid container, as shown in the previous challenge, you can place an item in your custom area by referencing the name you gave it. To do this, you use the grid-area property on an item like this:
+
+.item1 {
+  grid-area: header;
+}
+
+This lets the grid know that you want the item1 class to go in the area named header. In this case, the item will use the entire top row because that whole row is named as the header area.
+
+Place an element with the item5 class in the footer area using the grid-area property.
+
+
+Cuadrícula CSS: coloque elementos en áreas de cuadrícula utilizando la propiedad del área de cuadrícula
+
+Después de crear una plantilla de área para su contenedor de cuadrícula, como se muestra en el desafío anterior, puede colocar un elemento en su área personalizada haciendo referencia al nombre que le dio. Para hacer esto, usa la propiedad de área de cuadrícula en un elemento como este:
+
+.item1 {
+  grid-area: header;
+}
+
+Esto le permite a la cuadrícula saber que desea que la clase item1 vaya al área denominada encabezado. En este caso, el elemento utilizará toda la fila superior porque toda esa fila se denomina área de encabezado.
+
+Coloque un elemento con la clase item5 en el área del pie de página usando la propiedad grid-area.

@@ -1,0 +1,29 @@
+CSS Grid: Divide the Grid Into an Area Template
+
+You can group cells of your grid together into an area and give the area a custom name. Do this by using grid-template-areas on the container like this:
+
+grid-template-areas:
+  "header header header"
+  "advert content content"
+  "footer footer footer";
+
+The code above merges the top three cells together into an area named header, the bottom three cells into a footer area, and it makes two areas in the middle row; advert and content. Note: Every word in the code represents a cell and every pair of quotation marks represent a row. In addition to custom labels, you can use a period (.) to designate an empty cell in the grid.
+
+Place the area template so that the cell labeled advert becomes an empty cell.
+
+
+Cuadrícula CSS: divide la cuadrícula en una plantilla de área
+
+Puede agrupar las celdas de su cuadrícula en un área y darle un nombre personalizado al área. Haga esto usando grid-template-areas en el contenedor de esta manera:
+
+grid-template-areas:
+  "header header header"
+  "advert content content"
+  "footer footer footer";
+
+El código anterior fusiona las tres celdas superiores en un área denominada encabezado, las tres celdas inferiores en un área de pie de página y crea dos áreas en la fila del medio; anuncio y contenido. Nota: Cada palabra del código representa una celda y cada par de comillas representa una fila. Además de las etiquetas personalizadas, puede utilizar un punto (.) Para designar una celda vacía en la cuadrícula.
+
+Coloque la plantilla de área de modo que la celda etiquetada como anuncio se convierta en una celda vacía.
+
+
+

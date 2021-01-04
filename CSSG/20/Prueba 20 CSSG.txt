@@ -1,0 +1,16 @@
+CSS Grid: Create Flexible Layouts Using auto-fit
+
+auto-fit works almost identically to auto-fill. The only difference is that when the container's size exceeds the size of all the items combined, auto-fill keeps inserting empty rows or columns and pushes your items to the side, while auto-fit collapses those empty rows or columns and stretches your items to fit the size of the container.
+
+Note: If your container can't fit all your items on one row, it will move them down to a new one.
+
+In the second grid, use auto-fit with repeat to fill the grid with columns that have a minimum width of 60px and maximum of 1fr. Then resize the preview to see the difference.
+
+
+Cuadrícula CSS: cree diseños flexibles con el auto-fit
+
+el autoajuste funciona casi de manera idéntica al auto-fill. La única diferencia es que cuando el tamaño del contenedor excede el tamaño de todos los elementos combinados, el llenado automático sigue insertando filas o columnas vacías y empuja sus elementos hacia un lado, mientras que el ajuste automático colapsa esas filas o columnas vacías y estira sus elementos hasta se ajusta al tamaño del recipiente.
+
+Nota: Si su contenedor no puede caber todos sus artículos en una fila, los moverá a una nueva.
+
+En la segunda cuadrícula, use el auto-fit con repetición para llenar la cuadrícula con columnas que tengan un ancho mínimo de 60px y un máximo de 1fr. Luego cambie el tamaño de la vista previa para ver la diferencia.

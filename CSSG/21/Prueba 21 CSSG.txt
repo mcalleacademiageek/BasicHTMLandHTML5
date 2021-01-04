@@ -1,0 +1,16 @@
+CSS Grid: Use Media Queries to Create Responsive Layouts
+
+CSS Grid can be an easy way to make your site more responsive by using media queries to rearrange grid areas, change dimensions of a grid, and rearrange the placement of items.
+
+In the preview, when the viewport width is 300px or more, the number of columns changes from 1 to 2. The advertisement area then occupies the left column completely.
+
+When the viewport width is 400px or more, make the header area occupy the top row completely and the footer area occupy the bottom row completely.
+
+
+Cuadrícula CSS: use consultas de medios para crear diseños receptivos
+
+CSS Grid puede ser una forma fácil de hacer que su sitio sea más receptivo mediante el uso de consultas de medios para reorganizar las áreas de la cuadrícula, cambiar las dimensiones de una cuadrícula y reorganizar la ubicación de los elementos.
+
+En la vista previa, cuando el ancho de la ventana gráfica es de 300px o más, el número de columnas cambia de 1 a 2. El área de publicidad ocupa la columna de la izquierda por completo.
+
+Cuando el ancho de la ventana gráfica sea de 400px o más, haga que el área del encabezado ocupe completamente la fila superior y el área del pie de página ocupe completamente la fila inferior.

@@ -1,0 +1,13 @@
+CSS Grid: Align All Items Horizontally using justify-items
+
+Sometimes you want all the items in your CSS Grid to share the same alignment. You can use the previously learned properties and align them individually, or you can align them all at once horizontally by using justify-items on your grid container. This property can accept all the same values you learned about in the previous two challenges, the difference being that it will move all the items in our grid to the desired alignment.
+
+Use this property to center all our items horizontally.
+
+
+Cuadrícula CSS: alinee todos los elementos horizontalmente usando justify-items
+
+A veces, desea que todos los elementos de su cuadrícula CSS compartan la misma alineación. Puede usar las propiedades aprendidas previamente y alinearlas individualmente, o puede alinearlas todas a la vez horizontalmente usando justify-items en su contenedor de cuadrícula. Esta propiedad puede aceptar los mismos valores que aprendió en los dos desafíos anteriores, con la diferencia de que moverá todos los elementos de nuestra cuadrícula a la alineación deseada.
+
+Utilice esta propiedad para centrar todos nuestros elementos horizontalmente.
+

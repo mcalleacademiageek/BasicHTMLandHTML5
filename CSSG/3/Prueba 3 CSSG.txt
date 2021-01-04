@@ -1,0 +1,13 @@
+CSS Grid: Add Rows with grid-template-rows
+
+The grid you created in the last challenge will set the number of rows automatically. To adjust the rows manually, use the grid-template-rows property in the same way you used grid-template-columns in previous challenge.
+
+Add two rows to the grid that are 50px tall each.
+
+
+Cuadrícula CSS: agregue filas con grid-template-rows
+
+La cuadrícula que creó en el último desafío establecerá el número de filas automáticamente. Para ajustar las filas manualmente, use la propiedad grid-template-rows de la misma manera que usó grid-template-columns en el desafío anterior.
+
+Agregue dos filas a la cuadrícula de 50 px de alto cada una.
+

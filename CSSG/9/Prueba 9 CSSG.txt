@@ -1,1 +1,14 @@
+CSS Grid: Use grid-row to Control Spacing
+
+Of course, you can make items consume multiple rows just like you can with columns. You define the horizontal lines you want an item to start and stop at using the grid-row property on a grid item.
+
+Make the element with the item5 class consume the last two rows.
+
+
+Cuadrícula CSS: use la fila de la cuadrícula para controlar el espaciado
+
+Por supuesto, puede hacer que los elementos consuman varias filas como puede hacerlo con las columnas. Usted define las líneas horizontales en las que desea que un elemento comience y se detenga usando la propiedad de fila de cuadrícula en un elemento de cuadrícula.
+
+Haga que el elemento con la clase item5 consuma las dos últimas filas.
+
 

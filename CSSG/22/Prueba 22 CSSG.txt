@@ -1,0 +1,17 @@
+CSS Grid: Create Grids within Grids
+
+Turning an element into a grid only affects the behavior of its direct descendants. So by turning a direct descendant into a grid, you have a grid within a grid.
+
+For example, by setting the display and grid-template-columns properties of the element with the item3 class, you create a grid within your grid.
+
+Turn the element with the item3 class into a grid with two columns with a width of auto and 1fr using display and grid-template-columns.
+
+
+Cuadrícula CSS: crea cuadrículas dentro de cuadrículas
+
+Convertir un elemento en una cuadrícula solo afecta el comportamiento de sus descendientes directos. Entonces, al convertir un descendiente directo en una cuadrícula, tiene una cuadrícula dentro de una cuadrícula.
+
+Por ejemplo, al establecer las propiedades de display y grid-template-columns del elemento con la clase item3, crea una cuadrícula dentro de su cuadrícula.
+
+Convierta el elemento con la clase item3 en una cuadrícula con dos columnas con un ancho de auto y 1fr usando display y grid-template-columns.
+

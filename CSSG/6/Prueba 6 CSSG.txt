@@ -1,1 +1,12 @@
+CSS Grid: Create a Row Gap using grid-row-gap
 
+You can add a gap in between the rows of a grid using grid-row-gap in the same way that you added a gap in between columns in the previous challenge.
+
+Create a gap for the rows that is 5px tall.
+
+
+Cuadrícula CSS: cree un espacio entre filas usando grid-row-gap
+
+Puede agregar un espacio entre las filas de una cuadrícula usando grid-row-gap de la misma manera que agregó un espacio entre las columnas en el desafío anterior.
+
+Cree un espacio para las filas de 5px de alto.

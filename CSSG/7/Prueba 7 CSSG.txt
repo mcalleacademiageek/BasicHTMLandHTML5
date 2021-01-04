@@ -1,0 +1,12 @@
+CSS Grid: Add Gaps Faster with grid-gap
+
+grid-gap is a shorthand property for grid-row-gap and grid-column-gap from the previous two challenges that's more convenient to use. If grid-gap has one value, it will create a gap between all rows and columns. However, if there are two values, it will use the first one to set the gap between the rows and the second value for the columns.
+
+Use grid-gap to introduce a 10px gap between the rows and 20px gap between the columns.
+
+
+CSS Grid: agregue huecos más rápido con grid-gap
+
+grid-gap es una propiedad abreviada para grid-row-gap y grid-column-gap de los dos desafíos anteriores que es más conveniente de usar. Si la brecha de la cuadrícula tiene un valor, creará una brecha entre todas las filas y columnas. Sin embargo, si hay dos valores, usará el primero para establecer el espacio entre las filas y el segundo valor para las columnas.
+
+Use grid-gap para introducir un espacio de 10px entre las filas y un espacio de 20px entre las columnas.

@@ -1,0 +1,13 @@
+CSS Grid: Align an Item Vertically using align-self
+
+Just as you can align an item horizontally, there's a way to align an item vertically as well. To do this, you use the align-self property on an item. This property accepts all of the same values as justify-self from the last challenge.
+
+Align the item with the class item3 vertically at the end.
+
+
+Cuadrícula CSS: alinee un elemento verticalmente usando align-self
+
+Así como puede alinear un elemento horizontalmente, también existe una forma de alinear un elemento verticalmente. Para hacer esto, usa la propiedad align-self en un elemento. Esta propiedad acepta todos los mismos valores que justify-self del último desafío.
+
+Alinee el elemento con la clase item3 verticalmente al final.
+

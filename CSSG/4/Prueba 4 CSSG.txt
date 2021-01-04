@@ -1,0 +1,36 @@
+CSS Grid: Use CSS Grid units to Change the Size of Columns and Rows
+
+You can use absolute and relative units like px and em in CSS Grid to define the size of rows and columns. You can use these as well:
+
+fr: sets the column or row to a fraction of the available space,
+
+auto: sets the column or row to the width or height of its content automatically,
+
+%: adjusts the column or row to the percent width of its container.
+
+Here's the code that generates the output in the preview:
+
+grid-template-columns: auto 50px 10% 2fr 1fr;
+
+This snippet creates five columns. The first column is as wide as its content, the second column is 50px, the third column is 10% of its container, and for the last two columns; the remaining space is divided into three sections, two are allocated for the fourth column, and one for the fifth.
+
+Make a grid with three columns whose widths are as follows: 1fr, 100px, and 2fr.
+
+
+Cuadrícula CSS: use unidades de cuadrícula CSS para cambiar el tamaño de columnas y filas
+
+Puede usar unidades absolutas y relativas como px y em en CSS Grid para definir el tamaño de filas y columnas. También puede usar estos:
+
+fr: establece la columna o fila en una fracción del espacio disponible,
+
+auto: establece la columna o fila al ancho o alto de su contenido automáticamente,
+
+%: ajusta la columna o fila al porcentaje de ancho de su contenedor.
+
+Aquí está el código que genera la salida en la vista previa:
+
+columnas de plantilla de cuadrícula: auto 50px 10% 2fr 1fr;
+
+Este fragmento crea cinco columnas. La primera columna es tan ancha como su contenido, la segunda columna es de 50px, la tercera columna es el 10% de su contenedor, y para las dos últimas columnas; el espacio restante se divide en tres secciones, dos para la cuarta columna y una para la quinta.
+
+Haz una cuadrícula con tres columnas cuyos anchos sean los siguientes: 1fr, 100px y 2fr.
